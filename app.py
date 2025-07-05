@@ -55,7 +55,6 @@ def daily_report_api(data: DailyPostsInput):
         posts=data.posts,
         model=model,
         vectorizer=tfidf,
-        scaler=scaler,
         label_encoder=le
     )
     return report
