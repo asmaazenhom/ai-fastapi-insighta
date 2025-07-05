@@ -1,872 +1,747 @@
 title,authors,clean_text,emotion
-The Great Gatsby,F. Scott Fitzgerald,great gatsby,love
-Animal Farm: A Fairy Story,George Orwell,animal farm fairy story,surprise
-The Da Vinci Code,Dan Brown,da vinci code,love
-Harry Potter and the Half-Blood Prince,"J.K. Rowling, Mary GrandPré",harry potter halfblood prince,surprise
-An Excellent conceited Tragedie of Romeo and Juliet,"William Shakespeare, Robert           Jackson",excellent conceited tragedie romeo juliet,love
-"The Lion, the Witch and the Wardrobe",C.S. Lewis,lion witch wardrobe,surprise
-The Time Traveler's Wife,Audrey Niffenegger,time traveler wife,surprise
-"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia",Elizabeth Gilbert,eat pray love one woman search everything across italy india indonesia,love
-"New Moon (Twilight, #2)",Stephenie Meyer,new moon twilight,surprise
-Brave New World,Aldous Huxley,brave new world,love
-The Secret Life of Bees,Sue Monk Kidd,secret life bee,surprise
-Le Petit Prince,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",le petit prince,surprise
-A Tale of Two Cities,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",tale two city,love
-Flickan som lekte med elden,"Stieg Larsson, Reg Keeland",flickan som lekte med elden,surprise
-Fifty Shades Darker,E.L. James,fifty shade darker,surprise
-The Joy Luck Club,Amy Tan,joy luck club,love
-Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,divine secret yaya sisterhood,love
-Great Expectations,Charles Dickens,great expectation,love
-American Gods,Neil Gaiman,american god,surprise
-Marley & Me: Life and Love with the World's Worst Dog,John Grogan,marley life love world bad dog,love
-Twilight: The Complete Illustrated Movie Companion,Mark Cotta Vaz,twilight complete illustrated movie companion,love
-Elle s'appelait Sarah,Tatiana de Rosnay,elle sappelait sarah,surprise
-Along Came a Spider,James Patterson,along come spider,surprise
-How to Win Friends and Influence People,Dale Carnegie,win friend influence people,love
-Under the Tuscan Sun,Frances Mayes,tuscan sun,surprise
-Never Let Me Go,Kazuo Ishiguro,never let go,surprise
-"PS, I Love You",Cecelia Ahern,p love,love
-The Hunt for Red October,Tom Clancy,hunt red october,surprise
-The Voyage of the Dawn Treader,"C.S. Lewis, Pauline Baynes",voyage dawn treader,surprise
-The Boy in the Striped Pyjamas,John Boyne,boy striped pyjama,surprise
-She's Come Undone,Wally Lamb,shes come undone,surprise
-City of Fallen Angels,Cassandra Clare,city fall angel,surprise
-"Where'd You Go, Bernadette",Maria Semple,whered go bernadette,surprise
-Nesnesitelná lehkost bytí,"Milan Kundera, Michael Henry Heim",nesnesiteln lehkost byt,surprise
-A Prayer for Owen Meany,John Irving,prayer owen meany,surprise
-James and the Giant Peach,"Roald Dahl, Quentin Blake",james giant peach,surprise
-The Wonderful Wizard of Oz,"L. Frank Baum, W.W. Denslow",wonderful wizard oz,love
-Stranger in a Strange Land,Robert A. Heinlein,stranger strange land,surprise
-A Million Little Pieces,James Frey,million little piece,surprise
-Island of the Blue Dolphins,Scott O'Dell,island blue dolphin,surprise
-Greg Heffley's Journal,Jeff Kinney,greg heffleys journal,surprise
-Hotel on the Corner of Bitter and Sweet,Jamie Ford,hotel corner bitter sweet,surprise
-The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,five love languages express heartfelt commitment mate,love
-Les Trois Mousquetaires,Alexandre Dumas,le trois mousquetaires,surprise
-Complete Harry Potter Boxed Set,J.K. Rowling,complete harry potter box set,surprise
-Go Ask Alice,"Beatrice Sparks, Anonymous",go ask alice,surprise
-The Purpose Driven Life: What on Earth am I Here For?,Rick Warren,purpose driven life earth,surprise
-Betrayed: a House of Night Novel,"P.C. Cast, Kristin Cast",betray house night novel,surprise
-If You Give a Mouse a Cookie,"Laura Joffe Numeroff, Felicia Bond",give mouse cookie,surprise
-A Streetcar Named Desire,Tennessee Williams,streetcar name desire,love
-Clockwork Princess,Cassandra Clare,clockwork princess,surprise
-The Good Earth,Pearl S. Buck,good earth,love
-The Brief Wondrous Life of Oscar Wao,Junot Díaz,brief wondrous life oscar wao,surprise
-Wizard's First Rule,Terry Goodkind,wizard first rule,surprise
-The Hunger Games Box Set,Suzanne Collins,hunger game box set,surprise
-The Great Hunt,Robert Jordan,great hunt,love
-The Complete Tales of Edgar Allan Poe,Edgar Allan Poe,complete tale edgar allan poe,surprise
-The Amazing Adventures of Kavalier & Clay,Michael Chabon,amazing adventure kavalier clay,love
-Perfect Chemistry,Simone Elkeles,perfect chemistry,love
-Much Ado About Nothing,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson",much ado nothing,surprise
-Batman: Year One,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",batman year one,surprise
-Go Set a Watchman,Harper Lee,go set watchman,surprise
-Little House on the Prairie,"Laura Ingalls Wilder, Garth Williams",little house prairie,surprise
-Batman: The Dark Knight Returns,"Frank Miller, Klaus Janson, Lynn Varley",batman dark knight return,surprise
-デスノート #1 (Desu Nōto) Taikutsu (退屈),"Tsugumi Ohba, Takeshi Obata",desu nto taikutsu,surprise
-The Absolutely True Diary of a Part-Time Indian,"Sherman Alexie, Ellen Forney",absolutely true diary parttime indian,love
-The Tale of Peter Rabbit,Beatrix Potter,tale peter rabbit,surprise
-Love You Forever,"Robert Munsch, Sheila McGraw",love forever,love
-Ensaio Sobre a Cegueira,"José Saramago, Giovanni Pontiero",ensaio sobre cegueira,surprise
-"I'd Tell You I Love You, But Then I'd Have to Kill You",Ally Carter,id tell love id kill,love
-La casa de los espíritus,"Isabel Allende, Magda Bogin",la casa de los espritus,surprise
-Love the One You're With,Emily Giffin,love one youre,love
-"Drums of Autumn (Outlander, #4)",Diana Gabaldon,drum autumn outlander,surprise
-A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,new earth awaken life purpose,surprise
-The Short Second Life of Bree Tanner,Stephenie Meyer,short second life bree tanner,surprise
-Snow Falling on Cedars,David Guterson,snow fall cedar,surprise
-The Lies of Locke Lamora,Scott Lynch,lie locke lamora,surprise
-"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson,garden beast love terror american family hitler berlin,love
-Crazy Love: Overwhelmed by a Relentless God,"Francis Chan, Danae Yankoski, Chris Tomlin",crazy love overwhelm relentless god,love
-Brave New World/Brave New World Revisited,"Aldous Huxley, Christopher Hitchens",brave new worldbrave new world revisit,love
-No Country for Old Men,Cormac McCarthy,country old men,surprise
-Walden; or Life in the Woods,Henry David Thoreau,walden life wood,surprise
-To All the Boys I've Loved Before,Jenny Han,boy ive love,love
-"Angus, Thongs and Full-Frontal Snogging",Louise Rennison,angus thong fullfrontal snogging,surprise
-When Breath Becomes Air,"Paul Kalanithi, Abraham Verghese",breath become air,surprise
-Guess How Much I Love You,"Sam McBratney, Anita Jeram",guess much love,love
-The History of Love,Nicole Krauss,history love,love
-L'élégance du hérisson,"Muriel Barbery, Alison Anderson",llgance du hrisson,surprise
-We Need to Talk About Kevin,Lionel Shriver,need talk kevin,surprise
-Cloudy with a Chance of Meatballs,"Judi Barrett, Ron Barrett",cloudy chance meatball,surprise
-Major Pettigrew's Last Stand,Helen Simonson,major pettigrews last stand,surprise
-The Happiness Project,Gretchen Rubin,happiness project,love
-The Man in the High Castle,Philip K. Dick,man high castle,surprise
-The Girl Who Loved Tom Gordon,Stephen King,girl love tom gordon,love
-All Creatures Great And Small,James Herriot,creatures great small,love
-People of the Book,Geraldine Brooks,people book,love
-"So Long, and Thanks for All the Fish",Douglas Adams,long thanks fish,love
-The Sweetness at the Bottom of the Pie,Alan Bradley,sweetness bottom pie,love
-"Saga, Volume One","Brian K. Vaughan, Fiona Staples",saga volume one,surprise
-The Witch of Blackbird Pond,Elizabeth George Speare,witch blackbird pond,surprise
-The Summer I Turned Pretty,Jenny Han,summer turn pretty,surprise
-Far from the Madding Crowd,"Thomas Hardy, Rosemarie Morgan, Shannon Russell",far madding crowd,surprise
-90 Minutes in Heaven,"Don Piper, Cecil Murphey",minute heaven,love
-The Great Divorce,C.S. Lewis,great divorce,love
-Also sprach Zarathustra,"Friedrich Nietzsche, Walter Kaufmann",also sprach zarathustra,surprise
-Ugly Love,Colleen Hoover,ugly love,love
-The Moon is a Harsh Mistress,Robert A. Heinlein,moon harsh mistress,surprise
-The Forty Rules of Love,"Elif Shafak, إليف شافاق, ارسلان فصیحی, محمد درويش",forty rule love,love
-Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,aristotle dante discover secret universe,love
-世界の終りとハードボイルド・ワンダーランド [Sekai no owari to hādoboirudo wandārando],"Haruki Murakami, Alfred Birnbaum",sekai owari hdoboirudo wandrando,surprise
-The Little Engine That Could,"Watty Piper, Doris Hauman, George Hauman",little engine could,surprise
-Someone Like You,Sarah Dessen,someone like,love
-Loving Frank,Nancy Horan,love frank,love
-Maus II : And Here My Troubles Began ,Art Spiegelman,maus ii trouble begin,surprise
-Ishmael: An Adventure of the Mind and Spirit,Daniel Quinn,ishmael adventure mind spirit,love
-Lover Revealed,J.R. Ward,lover reveal,love
-"Never Too Far (Too Far, #2)",Abbi Glines,never far far,love
-The Statistical Probability of Love at First Sight,Jennifer E. Smith,statistical probability love first sight,love
-Still Life with Woodpecker,Tom Robbins,still life woodpecker,surprise
-"The Road Less Traveled:  A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck,road less travel new psychology love traditional value spiritual growth,love
-All the Pretty Horses,Cormac McCarthy,pretty horse,surprise
-Horton Hears a Who!,Dr. Seuss,horton hear,surprise
-"The Surgeon of Crowthorne: a tale of murder, madness & the love of words",Simon Winchester,surgeon crowthorne tale murder madness love word,love
-The Art of Happiness: A Handbook for Living,"Dalai Lama XIV, Howard C. Cutler",art happiness handbook living,love
-Chasing Harry Winston,Lauren Weisberger,chase harry winston,surprise
-Have a Little Faith: A True Story,Mitch Albom,little faith true story,love
-Emotional Intelligence 2.0,"Travis Bradberry, Jean Greaves, Patrick Lencioni",emotional intelligence,love
-Notes from a Small Island,Bill Bryson,note small island,surprise
-"Everything, Everything","Nicola Yoon, David Yoon",everything everything,love
-Bridget Jones: The Edge of Reason,Helen Fielding,bridget jones edge reason,surprise
-The Memoirs of Sherlock Holmes,Arthur Conan Doyle,memoir sherlock holmes,surprise
-The Orphan Master's Son,Adam Johnson,orphan master son,surprise
-"Lover Enshrined, part one",J.R. Ward,lover enshrine part one,love
-"Lover Enshrined, part two",J.R. Ward,lover enshrine part two,love
-"Go, Dog. Go!",P.D. Eastman,go dog go,surprise
-PostSecret: Extraordinary Confessions from Ordinary Lives,Frank Warren,postsecret extraordinary confession ordinary life,love
-The Power of Positive Thinking,Norman Vincent Peale,power positive thinking,love
-Crossroads of Twilight,Robert Jordan,crossroad twilight,surprise
-Saving The World and Other Extreme Sports,James Patterson,save world extreme sport,love
-The House at Pooh Corner,"A.A. Milne, Ernest H. Shepard",house pooh corner,surprise
-The Island of Dr. Moreau,H.G. Wells,island dr moreau,surprise
-The Sandman: Dream Country,"Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Erickson",sandman dream country,surprise
-Chelsea Chelsea Bang Bang,Chelsea Handler,chelsea chelsea bang bang,surprise
-Saving CeeCee Honeycutt,"Beth Hoffman, Jenna Lamia",save ceecee honeycutt,love
-Emotional Intelligence,Daniel Goleman,emotional intelligence,love
-Eclipse: The Official Illustrated Movie Companion,Mark Cotta Vaz,eclipse official illustrate movie companion,love
-Rise of the Evening Star,Brandon Mull,rise evening star,surprise
-Without Fail ,"Lee Child, Dick Hill",without fail,love
-"Fablehaven: Secrets of the Dragon Sanctuary (Fablehaven, #4)",Brandon Mull,fablehaven secret dragon sanctuary fablehaven,love
-Peace Like a River,Leif Enger,peace like river,love
-Cross My Heart and Hope to Spy,Ally Carter,cross heart hope spy,love
-All Things Bright and Beautiful,James Herriot,thing bright beautiful,love
-Fantastic Mr Fox,"Roald Dahl, Quentin Blake",fantastic mr fox,love
-Lady Chatterley's Lover,"D.H. Lawrence, Doris Lessing, Chester Brown",lady chatterleys lover,love
-My Name Is Lucy Barton,"Elizabeth Strout, Goran Skrobonja",name lucy barton,surprise
-The Fall of the House of Usher and Other Writings,"Edgar Allan Poe, Stephen Marlowe",fall house usher writing,surprise
-At Home: A Short History of Private Life,Bill Bryson,home short history private life,surprise
-"Rødstrupe (Harry Hole, #3) ","Jo Nesbø, Don Bartlett",rdstrupe harry hole,surprise
-The Tenant of Wildfell Hall,"Anne Brontë, Stevie Davies",tenant wildfell hall,surprise
-Three Wishes,Liane Moriarty,three wish,surprise
-Anne Frank Remembered,"Miep Gies, Alison Leslie Gold",anne frank remember,surprise
-"Revolution 2020: Love, Corruption, Ambition",Chetan Bhagat,revolution love corruption ambition,love
-A Bear Called Paddington,"Michael Bond, Peggy Fortnum",bear call paddington,surprise
-The Hypnotist's Love Story,Liane Moriarty,hypnotist love story,love
-Fantasy Lover,Sherrilyn Kenyon,fantasy lover,surprise
-Magical Thinking: True Stories,Augusten Burroughs,magical thinking true story,love
-Bird by Bird: Some Instructions on Writing and Life,Anne Lamott,bird bird instruction writing life,surprise
-Best Friends Forever,Jennifer Weiner,best friend forever,love
-The Merry Adventures of Robin Hood,Howard Pyle,merry adventure robin hood,love
+The Hunger Games,Suzanne Collins,hunger game,joy
+The Lovely Bones,Alice Sebold,lovely bone,love
+Gone Girl,Gillian Flynn,go girl,joy
+The Time Traveler's Wife,Audrey Niffenegger,time traveler wife,joy
+A Game of Thrones,George R.R. Martin,game throne,joy
+"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia",Elizabeth Gilbert,eat pray love one woman search everything across italy india indonesia,joy
+Life of Pi,Yann Martel,life pi,joy
+Brave New World,Aldous Huxley,brave new world,joy
+The Secret Life of Bees,Sue Monk Kidd,secret life bee,joy
+The Girl on the Train,Paula Hawkins,girl train,joy
+Ender's Game,Orson Scott Card,enders game,joy
+Un di Velt Hot Geshvign,"Elie Wiesel, Marion Wiesel",un di velt hot geshvign,love
+Me Talk Pretty One Day,David Sedaris,talk pretty one day,joy
+The Joy Luck Club,Amy Tan,joy luck club,joy
+Steve Jobs,Walter Isaacson,steve job,joy
+Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,divine secret yaya sisterhood,joy
+Girl with a Pearl Earring,Tracy Chevalier,girl pearl earring,joy
+American Gods,Neil Gaiman,american god,joy
+The Other Boleyn Girl,Philippa Gregory,boleyn girl,joy
+A Dance with Dragons,George R.R. Martin,dance dragon,joy
+Marley & Me: Life and Love with the World's Worst Dog,John Grogan,marley life love world bad dog,joy
+One for the Money,Janet Evanovich,one money,joy
+The Art of Racing in the Rain,Garth Stein,art race rain,joy
+Twilight: The Complete Illustrated Movie Companion,Mark Cotta Vaz,twilight complete illustrated movie companion,joy
+Along Came a Spider,James Patterson,along come spider,joy
+Kiss the Girls,James Patterson,kiss girl,joy
+"PS, I Love You",Cecelia Ahern,p love,joy
+"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch","Terry Pratchett, Neil Gaiman",good omen nice accurate prophecy agnes nutter witch,joy
+Good in Bed,Jennifer Weiner,good bed,joy
+The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story,Douglas Adams,ultimate hitchhiker guide five complete novel one story,joy
+The Casual Vacancy,J.K. Rowling,casual vacancy,joy
+The Wonderful Wizard of Oz,"L. Frank Baum, W.W. Denslow",wonderful wizard oz,joy
+Salem's Lot,Stephen King,salem lot,joy
+Beloved,Toni Morrison,beloved,love
+Im Westen nichts Neues,"Erich Maria Remarque, A.W. Wheen",im westen nichts neues,love
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,five love languages express heartfelt commitment mate,joy
+Complete Harry Potter Boxed Set,J.K. Rowling,complete harry potter box set,joy
+Go Ask Alice,"Beatrice Sparks, Anonymous",go ask alice,joy
+The Purpose Driven Life: What on Earth am I Here For?,Rick Warren,purpose driven life earth,joy
+A Streetcar Named Desire,Tennessee Williams,streetcar name desire,joy
+The Good Earth,Pearl S. Buck,good earth,joy
+Ways of Seeing,John Berger,way see,joy
+The Brief Wondrous Life of Oscar Wao,Junot Díaz,brief wondrous life oscar wao,joy
+Their Eyes Were Watching God,Zora Neale Hurston,eye watch god,joy
+The God Delusion,Richard Dawkins,god delusion,joy
+The Clan of the Cave Bear,Jean M. Auel,clan cave bear,joy
+The Hunger Games Box Set,Suzanne Collins,hunger game box set,joy
+The Complete Tales of Edgar Allan Poe,Edgar Allan Poe,complete tale edgar allan poe,joy
+Go Set a Watchman,Harper Lee,go set watchman,joy
+Midnight in the Garden of Good and Evil,John Berendt,midnight garden good evil,joy
+Life After Life,Kate Atkinson,life life,joy
+The Way of Kings,Brandon Sanderson,way king,joy
+"Girl, Interrupted",Susanna Kaysen,girl interrupt,joy
+Love You Forever,"Robert Munsch, Sheila McGraw",love forever,joy
+Orange Is the New Black: My Year in a Women's Prison,Piper Kerman,orange new black year womens prison,joy
+"Are You There God? It's Me, Margaret",Judy Blume,god margaret,joy
+Patriot Games,Tom Clancy,patriot game,joy
+A Visit From the Goon Squad,Jennifer Egan,visit goon squad,joy
+Uncle Tom's Cabin or Life Among the Lowly,Harriet Beecher Stowe,uncle tom cabin life among lowly,joy
+"I'd Tell You I Love You, But Then I'd Have to Kill You",Ally Carter,id tell love id kill,joy
+"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Christopher McDougall,bear run hidden tribe superathletes great race world never see,joy
+The Storied Life of A.J. Fikry,Gabrielle Zevin,storied life aj fikry,joy
+Think and Grow Rich,Napoleon Hill,think grow rich,joy
+Love the One You're With,Emily Giffin,love one youre,joy
+The Sound and the Fury,William Faulkner,sound fury,joy
+"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr., Eric Carle",brown bear brown bear see,joy
+The Girls' Guide to Hunting and Fishing,Melissa Bank,girl guide hunt fishing,joy
+"Life, the Universe and Everything",Douglas Adams,life universe everything,joy
+"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Bryan Lee O'Malley,scott pilgrim volume scott pilgrims precious little life,joy
+Twenties Girl,Sophie Kinsella,twenty girl,joy
+The Complete Sherlock Holmes,Arthur Conan Doyle,complete sherlock holmes,joy
+"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson,garden beast love terror american family hitler berlin,joy
+Specials,Scott Westerfeld,special,joy
+Brave New World/Brave New World Revisited,"Aldous Huxley, Christopher Hitchens",brave new worldbrave new world revisit,joy
+The Good Girl,Mary Kubica,good girl,joy
+Walden; or Life in the Woods,Henry David Thoreau,walden life wood,joy
+The Best of Me,Nicholas Sparks,best,joy
+Shanghai Girls,Lisa See,shanghai girl,joy
+To All the Boys I've Loved Before,Jenny Han,boy ive love,joy
+The Westing Game,Ellen Raskin,westing game,joy
+The Way of Shadows,Brent Weeks,way shadow,joy
+Guess How Much I Love You,"Sam McBratney, Anita Jeram",guess much love,joy
+The History of Love,Nicole Krauss,history love,joy
+Wicked Lovely ,Melissa Marr,wicked lovely,love
+Gerald's Game,Stephen King,geralds game,joy
+The Joy of Cooking,"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",joy cook,joy
+Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,good great company make leap others dont,joy
+The Complete Anne of Green Gables Boxed Set,L.M. Montgomery,complete anne green gable box set,joy
+Presumed Innocent,Scott Turow,presume innocent,joy
+Cleopatra: A Life,Stacy Schiff,cleopatra life,joy
+The Girl Who Loved Tom Gordon,Stephen King,girl love tom gordon,joy
+Einstein. His Life and Universe,Walter Isaacson,einstein life universe,joy
+Handle with Care,Jodi Picoult,handle care,love
+The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,zombie survival guide complete protection living dead,joy
+"SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance","Steven D. Levitt, Stephen J. Dubner",superfreakonomics global cool patriotic prostitute suicide bomber buy life insurance,joy
+Far from the Madding Crowd,"Thomas Hardy, Rosemarie Morgan, Shannon Russell",far madding crowd,joy
+New Moon: The Complete Illustrated Movie Companion,Mark Cotta Vaz,new moon complete illustrated movie companion,joy
+A Stolen Life,Jaycee Dugard,stolen life,joy
+Ugly Love,Colleen Hoover,ugly love,joy
+Hot Six,Janet Evanovich,hot six,love
+A Dirty Job,Christopher Moore,dirty job,joy
+Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,moneyball art win unfair game,joy
+The Girls,Emma Cline,girl,joy
+The Goose Girl,Shannon Hale,goose girl,joy
+The Forty Rules of Love,"Elif Shafak, إليف شافاق, ارسلان فصیحی, محمد درويش",forty rule love,joy
+Tender Is the Night,F. Scott Fitzgerald,tender night,love
+"The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",Timothy Ferriss,hour workweek escape live anywhere join new rich,joy
+Loving Frank,Nancy Horan,love frank,joy
+Hard Eight,"Janet Evanovich, Lorelei King",hard eight,joy
+The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard   Preston,hot zone terrify true story origin ebola virus,love
+'Salem's Lot The Illustrated Edition,"Stephen King, Jerry N. Uelsmann",salem lot illustrated edition,joy
+"Never Too Far (Too Far, #2)",Abbi Glines,never far far,joy
+The Statistical Probability of Love at First Sight,Jennifer E. Smith,statistical probability love first sight,joy
+Still Life with Woodpecker,Tom Robbins,still life woodpecker,joy
+"The Road Less Traveled:  A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck,road less travel new psychology love traditional value spiritual growth,joy
+Life,Keith Richards,life,joy
+On the Origin of Species by Means of Natural Selection or the Preservation of Favoured Races in the Struggle for Life,Charles Darwin,origin specie mean natural selection preservation favoured race struggle life,joy
+"Sherlock Holmes: The Complete Novels and Stories, Vol 2","Arthur Conan Doyle, Kyle Freeman",sherlock holmes complete novel story vol,joy
+Benjamin Franklin: An American Life,Walter Isaacson,benjamin franklin american life,joy
+The Blind Side: Evolution of a Game,Michael   Lewis,blind side evolution game,joy
+Small Gods,Terry Pratchett,small god,joy
+"Janet Evanovich Three and Four Two-Book Set (Stephanie Plum, #3-4)",Janet Evanovich,janet evanovich three four twobook set stephanie plum,joy
+"The Surgeon of Crowthorne: a tale of murder, madness & the love of words",Simon Winchester,surgeon crowthorne tale murder madness love word,joy
+The Complete Maus,Art Spiegelman,complete maus,joy
+The 3 Mistakes of My Life,Chetan Bhagat,mistake life,joy
+A Long Way Down,Nick Hornby,long way,joy
+The Prayer of Jabez:  Breaking Through to the Blessed Life,Bruce H. Wilkinson,prayer jabez break bless life,love
+My Life in France,"Julia Child, Alex Prud'Homme",life france,joy
+Emotional Intelligence 2.0,"Travis Bradberry, Jean Greaves, Patrick Lencioni",emotional intelligence,joy
+Notes from a Small Island,Bill Bryson,note small island,joy
+Small Favor,Jim Butcher,small favor,joy
+Enchanters' End Game,David Eddings,enchanter end game,joy
+The Boston Girl,Anita Diamant,boston girl,joy
+The Complete Poems of Emily Dickinson,"Emily Dickinson, Thomas H. Johnson",complete poem emily dickinson,joy
+PostSecret: Extraordinary Confessions from Ordinary Lives,Frank Warren,postsecret extraordinary confession ordinary life,joy
+The Power of Positive Thinking,Norman Vincent Peale,power positive thinking,joy
+Emotional Intelligence,Daniel Goleman,emotional intelligence,joy
+Ten Big Ones,Janet Evanovich,ten big one,joy
+Same Kind of Different as Me,"Ron Hall, Denver Moore, Lynn Vincent",kind different,love
+Narrative of the Life of Frederick Douglass,Frederick Douglass,narrative life frederick douglas,joy
+Still Life,Louise Penny,still life,joy
+The Kitchen God's Wife,Amy Tan,kitchen god wife,joy
+The Second Summer of the Sisterhood,Ann Brashares,second summer sisterhood,joy
+Born in Fire ,Nora Roberts,bear fire,joy
+Real,Katy Evans,real,joy
+Born at Midnight,C.C. Hunter,bear midnight,joy
+The Crying of Lot 49,Thomas Pynchon,cry lot,joy
+The Scorpio Races,Maggie Stiefvater,scorpio race,joy
+Furiously Happy,Jenny  Lawson,furiously happy,joy
+"Revolution 2020: Love, Corruption, Ambition",Chetan Bhagat,revolution love corruption ambition,joy
+A Bear Called Paddington,"Michael Bond, Peggy Fortnum",bear call paddington,joy
+The General's Daughter,Nelson DeMille,general daughter,joy
+The Innocent,David Baldacci,innocent,joy
+The Hypnotist's Love Story,Liane Moriarty,hypnotist love story,joy
+You Can Heal Your Life,Louise L. Hay,heal life,joy
+Best Friends Forever,Jennifer Weiner,best friend forever,joy
+The Mote in God's Eye,"Larry Niven, Jerry Pournelle",mote god eye,joy
 Faithful Place,Tana French,faithful place,love
-Little Town on the Prairie,"Laura Ingalls Wilder, Garth Williams",little town prairie,surprise
-Finger Lickin' Fifteen,Janet Evanovich,finger lickin fifteen,surprise
-Jewels of the Sun,Nora Roberts,jewel sun,surprise
-The Grand Design,"Stephen Hawking, Leonard Mlodinow",grand design,love
-"Forever Too Far (Too Far, #3)",Abbi Glines,forever far far,surprise
-Harry Potter: Film Wizardry,Brian Sibley,harry potter film wizardry,surprise
-Circling the Sun,Paula McLain,circle sun,surprise
-Black Like Me,John Howard Griffin,black like,surprise
-Bloodsucking Fiends,Christopher Moore,bloodsucking fiend,surprise
-The Van Alen Legacy ,Melissa de la Cruz,van alen legacy,surprise
-Proof of Heaven: A Neurosurgeon's Journey Into the Afterlife,Eben Alexander,proof heaven neurosurgeon journey afterlife,love
-Geek Love,Katherine Dunn,geek love,love
-"Daring Greatly : How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Brené Brown,dare greatly courage vulnerable transforms way live love parent lead,love
-Code Name Verity,Elizabeth Wein,code name verity,surprise
-Shūtur eli sharrī,"Anonymous, N.K. Sandars",shtur eli sharr,surprise
-The Complete Tales of Beatrix Potter,Beatrix Potter,complete tale beatrix potter,surprise
+Dance Upon The Air,Nora Roberts,dance upon air,joy
+The Magic of Thinking Big,David J. Schwartz,magic think big,joy
+"Forever Too Far (Too Far, #3)",Abbi Glines,forever far far,joy
+God Emperor of Dune,Frank Herbert,god emperor dune,joy
+Geek Love,Katherine Dunn,geek love,joy
+Master of the Game,Sidney Sheldon,master game,joy
+The Complete Tales of Beatrix Potter,Beatrix Potter,complete tale beatrix potter,joy
+Skin Game,Jim Butcher,skin game,joy
 "God Bless You, Mr Rosewater or Pearls before Swine",Kurt Vonnegut Jr.,god bless mr rosewater pearl swine,love
-P.S. I Still Love You,Jenny Han,p still love,love
-A Darker Shade of Magic,"V.E. Schwab, Victoria Schwab",darker shade magic,surprise
-The Secret of Ella and Micha,Jessica Sorensen,secret ella micha,surprise
-"Love Unscripted (Love, #1)",Tina Reber,love unscripted love,love
-Pop Goes the Weasel,James Patterson,pop go weasel,love
-"Cry, The Beloved Country",Alan Paton,cry beloved country,surprise
-The Lottery: Adventures of the Demon Lover,Shirley Jackson,lottery adventure demon lover,love
-Lover Reborn,J.R. Ward,lover reborn,love
-Dragons of Spring Dawning,"Margaret Weis, Tracy Hickman",dragon spring dawning,surprise
-A Raisin in the Sun,Lorraine Hansberry,raisin sun,surprise
-"Saga, Volume Two","Brian K. Vaughan, Fiona Staples",saga volume two,surprise
-Le Scaphandre et le Papillon,"Jean-Dominique Bauby, Jeremy Leggatt",le scaphandre et le papillon,surprise
-The Life and Times of The Thunderbolt Kid: A Memoir,Bill Bryson,life time thunderbolt kid memoir,surprise
-Who's Afraid of Virginia Woolf?,Edward Albee,who afraid virginia woolf,surprise
-Destined for an Early Grave,Jeaniene Frost,destine early grave,surprise
-The Girl of Fire and Thorns,Rae Carson,girl fire thorn,surprise
-By the Shores of Silver Lake,"Laura Ingalls Wilder, Garth Williams",shore silver lake,surprise
-The Girl with the Lower Back Tattoo,Amy Schumer,girl low back tattoo,surprise
-The New York Trilogy,"Paul Auster, Art Spiegelman",new york trilogy,surprise
-The Sandman: Season of Mists,"Neil Gaiman, Matt Wagner, George Pratt, Dick Giordano, Kelley Jones, P. Craig Russell, Mike Dringenberg, Malcolm Jones III, Todd Klein, Harlan Ellison",sandman season mist,surprise
-"The Vincent Brothers (The Vincent Boys, #1)",Abbi Glines,vincent brothers vincent boy,love
-"Tinker, Tailor, Soldier, Spy",John le Carré,tinker tailor soldier spy,surprise
-Love Story,Erich Segal,love story,love
-Del amor y otros demonios,Gabriel García Márquez,del amor otros demonios,love
-Only the Good Spy Young,Ally Carter,good spy young,love
-Mastering the Art of French Cooking,"Julia Child, Simone Beck, Louisette Bertholle",master art french cooking,surprise
-"Confessor (Sword of Truth, #11)",Terry Goodkind,confessor sword truth,surprise
-Stumbling on Happiness,Daniel Todd Gilbert,stumble happiness,love
-The Greatest Salesman in the World,Og Mandino,great salesman world,love
-Mr. Brown Can Moo! Can You?,Dr. Seuss,mr brown moo,surprise
-1Q84 Book 1 [Ichi-kyū-hachi-yon],"Haruki Murakami, 村上 春樹",q book ichikyhachiyon,surprise
-Peter Pan (Little Golden Book),"Eugene Bradley Coco, Ron Dias, Walt Disney Company",peter pan little golden book,surprise
-Ten Tiny Breaths,K.A. Tucker,ten tiny breath,surprise
-The Thousand Autumns of Jacob de Zoet,David Mitchell,thousand autumn jacob de zoet,surprise
-"The Long Winter (Little House, #6)","Laura Ingalls Wilder, Garth Williams",long winter little house,surprise
-These Happy Golden Years,"Laura Ingalls Wilder, Garth Williams",happy golden year,love
+The Windup Girl,Paolo Bacigalupi,windup girl,joy
+P.S. I Still Love You,Jenny Han,p still love,joy
+The Goal,"Eliyahu M. Goldratt, Jeff Cox",goal,joy
+Kingdom Come,"Mark Waid, Alex Ross, Elliot S. Maggin",kingdom come,joy
+"Love Unscripted (Love, #1)",Tina Reber,love unscripted love,joy
+"Cry, The Beloved Country",Alan Paton,cry beloved country,love
+How to Be Good,Nick Hornby,good,joy
+Gossip Girl,Cecily von Ziegesar,gossip girl,joy
+Built to Last: Successful Habits of Visionary Companies,"James C. Collins, Jerry I. Porras",build last successful habit visionary company,joy
+The Life We Bury,Allen Eskens,life bury,joy
+Still Life with Bread Crumbs,Anna Quindlen,still life bread crumb,joy
+Pursuit of God,A.W. Tozer,pursuit god,joy
+All-American Girl,Meg Cabot,allamerican girl,joy
+The Girl of Fire and Thorns,Rae Carson,girl fire thorn,joy
+Every Which Way But Dead,Kim Harrison,every way dead,joy
+The Total Money Makeover: A Proven Plan for Financial Fitness,Dave Ramsey,total money makeover proven plan financial fitness,joy
+Dreams of Joy (Shanghai Girls #2),Lisa See,dream joy shanghai girl,joy
+The Player of Games,Iain M. Banks,player game,joy
+"The Killing Dance (Anita Blake, Vampire Hunter, #6)",Laurell K. Hamilton,kill dance anita blake vampire hunter,joy
+Cat on a Hot Tin Roof,Tennessee Williams,cat hot tin roof,love
+Split Second,David Baldacci,split second,joy
+Love Story,Erich Segal,love story,joy
+Sweet Evil,Wendy Higgins,sweet evil,joy
+My Life,Bill Clinton,life,joy
+This Girl,Colleen Hoover,girl,joy
+Way of the Peaceful Warrior: A Book That Changes Lives,Dan Millman,way peaceful warrior book change life,joy
+Nothing to Envy: Ordinary Lives in North Korea,Barbara Demick,nothing envy ordinary life north korea,joy
+Little Bear,"Else Holmelund Minarik, Maurice Sendak",little bear,joy
+The Hard Way,Lee Child,hard way,joy
+Dance with the Devil,Sherrilyn Kenyon,dance devil,joy
+The Perfect Game,J. Sterling,perfect game,joy
+Simple Abundance:  A Daybook of Comfort and Joy,Sarah Ban Breathnach,simple abundance daybook comfort joy,joy
+These Happy Golden Years,"Laura Ingalls Wilder, Garth Williams",happy golden year,joy
 The Sweet Far Thing,Libba Bray,sweet far thing,love
-Tiny Beautiful Things: Advice on Love and Life from Dear Sugar,Cheryl Strayed,tiny beautiful thing advice love life dear sugar,love
-Beyond the Highland Mist,Karen Marie Moning,beyond highland mist,surprise
-Rising Sun,Michael Crichton,rise sun,surprise
-Traveling Mercies: Some Thoughts on Faith,Anne Lamott,travel mercy thought faith,love
-We Have Always Lived in the Castle,"Shirley Jackson, Jonathan Lethem",always live castle,surprise
-Never Go Back ,Lee Child,never go back,love
-The Two Princesses of Bamarre,Gail Carson Levine,two princess bamarre,surprise
-An Autobiography or The Story of My Experiments with Truth,Mahatma Gandhi,autobiography story experiment truth,surprise
-Undaunted Courage,Stephen E. Ambrose,undaunted courage,love
-Sweet Tooth,Ian McEwan,sweet tooth,love
-"Twisted Perfection (Perfection, #1)",Abbi Glines,twisted perfection perfection,love
-One Thousand Gifts,Ann Voskamp,one thousand gift,love
-Superman: Red Son,"Mark Millar, Kilian Plunkett, Andrew Robinson, Walden Wong, Dave Johnson",superman red son,surprise
-The Face on the Milk Carton,Caroline B. Cooney,face milk carton,surprise
-Flat-Out Love ,Jessica Park,flatout love,love
-Fly Away Home,Jennifer Weiner,fly away home,love
-The Virgin's Lover,Philippa Gregory,virgin lover,love
-Awake at Dawn,C.C. Hunter,awake dawn,surprise
-Danny: The Champion of the World,"Roald Dahl, Quentin Blake",danny champion world,love
-Everyday Italian: 125 Simple and Delicious Recipes,Giada De Laurentiis,everyday italian simple delicious recipe,love
-I Too Had A Love Story,Ravinder Singh,love story,love
-"Saga, Volume Three","Brian K. Vaughan, Fiona Staples",saga volume three,surprise
-A Man Without a Country,Kurt Vonnegut Jr.,man without country,surprise
-The End of Your Life Bookclub,Will Schwalbe,end life bookclub,surprise
-The Four Loves,C.S. Lewis,four love,love
-The Boy Who Sneaks in My Bedroom Window,Kirsty Moseley,boy sneak bedroom window,surprise
-Wide Sargasso Sea,Jean Rhys,wide sargasso sea,surprise
-"Not a Penny More, Not a Penny Less",Jeffrey Archer,penny penny less,surprise
-The First Fifteen Lives of Harry August,Claire North,first fifteen life harry august,surprise
-Love Letters to the Dead,Ava Dellaira,love letter dead,love
-A Town Like Alice,Nevil Shute,town like alice,love
-The Gashlycrumb Tinies,Edward Gorey,gashlycrumb tinies,surprise
-What We Talk About When We Talk About Love: Stories,Raymond Carver,talk talk love story,love
-Mistborn Trilogy Boxed Set,Brandon Sanderson,mistborn trilogy box set,surprise
-美少女戦士セーラームーン 1 [Bishōjo Senshi Sailor Moon 1],Naoko Takeuchi,bishjo senshi sailor moon,surprise
-Nine Princes in Amber,Roger Zelazny,nine prince amber,surprise
-Official Book Club Selection: A Memoir According to Kathy Griffin,Kathy Griffin,official book club selection memoir accord kathy griffin,love
-Why Men Love Bitches: From Doormat to Dreamgirl - A Woman's Guide to Holding Her Own In A Relationship,Sherry Argov,men love bitch doormat dreamgirl woman guide hold relationship,love
-The Outlaw Demon Wails ,Kim Harrison,outlaw demon wail,surprise
-The Art of Loving,"Erich Fromm, Peter D. Kramer, Rainer Funk",art love,love
-Flow: The Psychology of Optimal Experience,Mihaly Csikszentmihalyi,flow psychology optimal experience,surprise
-Super Sad True Love Story,Gary Shteyngart,super sad true love story,love
-This Is What Happy Looks Like,Jennifer E. Smith,happy look like,love
-What's So Amazing About Grace?,Philip Yancey,whats amaze grace,surprise
-Bokhandleren i Kabul,"Åsne Seierstad, Ingrid Christopherson",bokhandleren kabul,surprise
-Ramona the Brave ,"Beverly Cleary, Alan Tiegreen",ramona brave,love
-Frog and Toad Together,Arnold Lobel,frog toad together,surprise
-El amante japonés,"Isabel Allende, Nick Caistor, Amanda Hopkinson",el amante japons,surprise
-Peony in Love,Lisa See,peony love,love
-Twenty Boy Summer,Sarah Ockler,twenty boy summer,surprise
-Mindset: The New Psychology of Success,Carol S. Dweck,mindset new psychology success,love
-"Beyond the Grave (The 39 Clues, #4)",Jude Watson,beyond grave clue,surprise
-The Paper Bag Princess,"Robert Munsch, Michael Martchenko",paper bag princess,surprise
-King Solomon's Mines,H. Rider Haggard,king solomon mine,surprise
-Love Unrehearsed,Tina Reber,love unrehearsed,love
-The People of Sparks,Jeanne DuPrau,people spark,love
-A Hunger Like No Other,Kresley Cole,hunger like,surprise
-A Million Suns ,Beth Revis,million sun,surprise
-Anne of Windy Poplars,L.M. Montgomery,anne windy poplar,surprise
-The Snowball: Warren Buffett and the Business of Life,Alice Schroeder,snowball warren buffett business life,surprise
-Missing Υou,Harlan Coben,miss ou,love
-Dearly Devoted Dexter,Jeff Lindsay,dearly devote dexter,love
-"The Realms of the Gods (Immortals, #4)",Tamora Pierce,realm god immortal,love
-"Saga, Volume Four","Brian K. Vaughan, Fiona Staples",saga volume four,surprise
-Chicken Soup for the Soul,"Jack Canfield, Mark Victor Hansen",chicken soup soul,surprise
-Pursuit of Honor,Vince Flynn,pursuit honor,love
-Tales from a Not-So-Popular Party Girl,Rachel Renée Russell,tale notsopopular party girl,love
-Born Free: A Lioness of Two Worlds,Joy Adamson,bear free lioness two world,love
-Confessiones Sancti Patris nostri Augustini,"Augustine of Hippo, Henry Chadwick, Albert Cook Outler",confessiones sancti patris nostri augustini,love
-An Astronaut’s Guide to Life on Earth,Chris Hadfield,astronauts guide life earth,surprise
-Gone for Good,Harlan Coben,go good,love
-Just So Stories for Little Children,Rudyard Kipling,story little child,surprise
-The Hundred Secret Senses,Amy Tan,hundred secret sens,surprise
-Pretty Baby,Mary Kubica,pretty baby,surprise
-Skulduggery Pleasant,"Derek Landy, Tom Percival",skulduggery pleasant,love
-Desiring God: Meditations of a Christian Hedonist,John Piper,desire god meditation christian hedonist,love
-Girl in Hyacinth Blue,Susan Vreeland,girl hyacinth blue,surprise
-Le Père Goriot,Honoré de Balzac,le pre goriot,love
-The Sandman: The Kindly Ones,"Neil Gaiman, Marc Hempel, Richard Case, D'Israeli, Teddy Kristiansen, Glyn Dillon, Charles Vess, Dean Ormston, Kevin Nowlan, Todd Klein, Frank McConnell",sandman kindly one,love
-The Mastery of Love: A Practical Guide to the Art of Relationship (Toltec Wisdom Book),Miguel Ruiz,mastery love practical guide art relationship toltec wisdom book,love
-Who Do You Love,Jennifer Weiner,love,love
-Enduring Love,Ian McEwan,endure love,love
-"First Things First: To Live, to Love, to Learn, to Leave a Legacy","Stephen R. Covey, A. Roger Merrill, Rebecca R. Merrill",first thing first live love learn leave legacy,love
-Al Capone Does My Shirts,Gennifer Choldenko,al capone shirt,surprise
-Love & Misadventure,Lang Leav,love misadventure,love
-"Crooked Letter, Crooked Letter",Tom Franklin,crooked letter crook letter,surprise
-Briefe an einen jungen Dichter,"Rainer Maria Rilke, Reginald Snell, Franz Xaver Kappus",briefe einen jungen dichter,surprise
-Princess in the Spotlight,Meg Cabot,princess spotlight,surprise
-The Coldest Winter Ever,Sister Souljah,cold winter ever,surprise
-"This Side of the Grave (Night Huntress, #5)",Jeaniene Frost,side grave night huntress,surprise
-Flora and Ulysses: The Illuminated Adventures,"Kate DiCamillo, K.G. Campbell",flora ulysses illuminated adventure,surprise
-"The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear","Don    Wood, Audrey Wood",little mouse red ripe strawberry big hungry bear,surprise
-First Drop of Crimson,Jeaniene Frost,first drop crimson,surprise
-"Love Comes Softly (Love Comes Softly, #1)",Janette Oke,love come softly love come softly,love
-Gulp: Adventures on the Alimentary Canal,Mary Roach,gulp adventure alimentary canal,surprise
-The Tender Bar: A Memoir,J.R. Moehringer,tender bar memoir,surprise
-Misty of Chincoteague,"Marguerite Henry, Wesley Dennis",misty chincoteague,surprise
-His Excellency: George Washington,Joseph J. Ellis,excellency george washington,love
-Burning Chrome and Other Stories,"William Gibson, Bruce Sterling",burn chrome story,surprise
-Last Night at Chateau Marmont,Lauren Weisberger,last night chateau marmont,surprise
-Princess in Love,Meg Cabot,princess love,love
-Truth & Beauty: A Friendship,Ann Patchett,truth beauty friendship,love
-The Return of Sherlock Holmes,Arthur Conan Doyle,return sherlock holmes,surprise
-Oz: The Wonderful Wizard of Oz,"Eric Shanower, Skottie Young, L. Frank Baum",oz wonderful wizard oz,surprise
-Love Walked In,Marisa de los Santos,love walk,love
-"Panserhjerte (Harry Hole, #8)",Jo Nesbø,panserhjerte harry hole,surprise
-Lady and the Tramp (Little Golden Book),"Teddy Slater, Bill Langley, Ron Dias, Walt Disney Company",lady tramp little golden book,surprise
-"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Sam Kean,disappearing spoon true tale madness love history world periodic table element,love
-The Intelligent Investor,"Benjamin Graham, Jason Zweig, Warren Buffett",intelligent investor,love
-An Ideal Husband,Oscar Wilde,ideal husband,love
-Love You More,Lisa Gardner,love,love
-The Naked Sun,Isaac Asimov,naked sun,surprise
-"Sookie Stackhouse, Books 1-7",Charlaine Harris,sookie stackhouse book,surprise
-Midnight for Charlie Bone,Jenny Nimmo,midnight charlie bone,surprise
-The Best Christmas Pageant Ever,Barbara Robinson,best christmas pageant ever,love
-Lord John and the Private Matter,Diana Gabaldon,lord john private matter,surprise
-The Crimson Petal and the White,Michel Faber,crimson petal white,surprise
-The Good Guy,Dean Koontz,good guy,love
-Black Magic Sanction,Kim Harrison,black magic sanction,surprise
-"Conversations with God, An Uncommon Dialogue: Living in the World with Honesty, Courage, and Love, Book 1",Neale Donald Walsch,conversation god uncommon dialogue living world honesty courage love book,love
-"Hawkeye, Volume 1: My Life as a Weapon","Matt Fraction, David Aja, Javier Pulido, Matt Hollingsworth, Chris Eliopoulos, Alan Davis",hawkeye volume life weapon,surprise
-Love That Dog,Sharon Creech,love dog,love
-King Leopold's Ghost,Adam Hochschild,king leopolds ghost,surprise
-"Black Bird, Volume 1","Kanoko Sakurakouji, JN Productions, Pancha Diaz",black bird volume,surprise
-Interesting Times,Terry Pratchett,interest time,love
-The Viscount Who Loved Me,Julia Quinn,viscount love,love
-五輪書 [Go Rin no Sho],"Miyamoto Musashi, Victor Harris",go rin sho,surprise
-Songs of Innocence and of Experience,William Blake,song innocence experience,surprise
-The Berenstain Bears and the Messy Room,"Stan Berenstain, Jan Berenstain",berenstain bear messy room,surprise
-Demon Lord of Karanda,David Eddings,demon lord karanda,surprise
-The Mysterious Benedict Society and the Perilous Journey,"Trenton Lee Stewart, Diana Sudyka",mysterious benedict society perilous journey,love
-Secrets of a Charmed Life,Susan Meissner,secret charmed life,love
-The Great Santini,Pat Conroy,great santini,love
-"Love Is a Mix Tape: Life and Loss, One Song at a Time",Rob Sheffield,love mix tape life loss one song time,love
-A Knight of the Seven Kingdoms,"George R.R. Martin, Gary Gianni",knight seven kingdom,surprise
-Emily of New Moon,L.M. Montgomery,emily new moon,surprise
-Morality for Beautiful Girls,Alexander McCall Smith,morality beautiful girl,love
-Time Enough for Love,Robert A. Heinlein,time enough love,love
-The Far Side Gallery 3,Gary Larson,far side gallery,surprise
-Jesus' Son: Stories,Denis Johnson,jesus son story,surprise
-Love Anthony,Lisa Genova,love anthony,love
-Das Unbehagen in der Kultur,"Sigmund Freud, James Strachey, Peter Gay",da unbehagen der kultur,surprise
-"Astonishing X-Men, Volume 1: Gifted","Joss Whedon, John Cassaday",astonish xmen volume gift,love
-"Sloppy Firsts (Jessica Darling, #1)",Megan McCafferty,sloppy first jessica darling,love
-A Long Way From Chicago,Richard Peck,long way chicago,surprise
-"Encyclopedia Brown, Boy Detective (Encyclopedia Brown, #1)",Donald J. Sobol,encyclopedia brown boy detective encyclopedia brown,love
-"Gone, Baby, Gone",Dennis Lehane,go baby go,surprise
-"Love, Stargirl",Jerry Spinelli,love stargirl,love
-Don't Waste Your Life,John Piper,dont waste life,surprise
-La catedral del mar,Ildefonso Falcones,la catedral del mar,surprise
-Earth: A Visitor's Guide to the Human Race ,"Jon Stewart, Rory Albanese, Kevin Bleyer, Rich Bloomquist, Steve Bodow, Tim Carvell, Wyatt Cenac, Hallie Haglund, J.R. Havlan, David Javerbaum, Elliott Kalan, Josh Lieb, Sam Means, Jo Miller, John Oliver, Daniel Radosh, Jason Ross",earth visitor guide human race,surprise
-Magic Kingdom for Sale—Sold!,Terry Brooks,magic kingdom salesold,surprise
-The Lion King (Little Golden Book),"Justine Korman Fontes, Don Williams, Walt Disney Company",lion king little golden book,surprise
-Radiant Shadows,Melissa Marr,radiant shadow,love
-A Great Deliverance,Elizabeth  George,great deliverance,love
-El club Dumas,"Arturo Pérez-Reverte, Sonia Soto",el club duma,surprise
-Evil Under the Sun,Agatha Christie,evil sun,surprise
-"My Friend Flicka (Flicka, #1)","Mary O'Hara, Dave Blossom",friend flicka flicka,love
-"The Darkest Passion (Lords of the Underworld, #5)",Gena Showalter,dark passion lord underworld,love
-Smiley's People,John le Carré,smiley people,love
-100 Selected Poems by e. e. Cummings,E.E. Cummings,select poem e e cummings,surprise
-Snow Like Ashes,Sara Raasch,snow like ash,surprise
-Eyes wide open,Raine Miller,eye wide open,love
-Megan Meade's Guide to the McGowan Boys,Kate Brian,megan meade guide mcgowan boy,love
-One Fifth Avenue,"Candace Bushnell, Donna Murphy",one fifth avenue,surprise
-A Knight in Shining Armor,Jude Deveraux,knight shin armor,surprise
-Pictures of Hollis Woods,Patricia Reilly Giff,picture hollis wood,surprise
-Women in Love,D.H. Lawrence,woman love,love
-The Swerve: How the World Became Modern,Stephen Greenblatt,swerve world become modern,surprise
-Stranger Than Fiction: True Stories,Chuck Palahniuk,stranger fiction true story,love
-Smashed: Story of a Drunken Girlhood,Koren Zailckas,smashed story drunken girlhood,surprise
-"Now, Discover Your Strengths","Marcus Buckingham, Donald O. Clifton",discover strength,love
-The 7 Habits Of Highly Effective Teens,Sean Covey,habit highly effective teen,love
-Assholes Finish First,Tucker Max,asshole finish first,surprise
-Pleasure of a Dark Prince ,Kresley Cole,pleasure dark prince,love
-Neil Patrick Harris: Choose Your Own Autobiography,"Neil Patrick Harris, David Javerbaum, Antony Hare",neil patrick harris choose autobiography,love
-Fallen in Love,Lauren Kate,fall love,love
-"A Return to Love: Reflections on the Principles of ""A Course in Miracles""",Marianne Williamson,return love reflection principle course miracle,love
-"Y: The Last Man, Vol. 8: Kimono Dragons","Brian K. Vaughan, Pia Guerra, Goran Sudžuka, José Marzán Jr.",last man vol kimono dragon,surprise
-Five Quarters of the Orange,Joanne Harris,five quarter orange,surprise
-"Saga, Volume Five","Brian K. Vaughan, Fiona Staples",saga volume five,surprise
-The Sign of the Beaver,Elizabeth George Speare,sign beaver,surprise
-"Assassins : Assignment: Jerusalem, Target: Antichrist","Tim LaHaye, Jerry B. Jenkins",assassin assignment jerusalem target antichrist,love
-Eat And Run,"Scott Jurek, Steve Friedman",eat run,surprise
-Kiss of the Night,Sherrilyn Kenyon,kiss night,love
-"From Russia, with Love",Ian Fleming,russia love,love
-Modern Lovers,Emma Straub,modern lover,love
-With The Old Breed: At Peleliu And Okinawa,"Eugene B. Sledge, Paul Fussell",old breed peleliu okinawa,surprise
-The House of the Seven Gables,"Nathaniel Hawthorne, Robert S. Levine",house seven gable,surprise
-Love Warrior,Glennon Doyle Melton,love warrior,love
-The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,"Catherynne M. Valente, Ana Juan",girl circumnavigate fairyland ship making,love
-Beautiful Day,Elin Hilderbrand,beautiful day,love
-The Indwelling: The Beast Takes Possession,"Tim LaHaye, Jerry B. Jenkins",indwell beast take possession,surprise
-Das Glasperlenspiel,"Hermann Hesse, Richard Winston, Clara Winston, Theodore Ziolkowski",da glasperlenspiel,surprise
-Eona: The Last Dragoneye,Alison Goodman,eona last dragoneye,surprise
-"A Caress of Twilight (Merry Gentry, #2)",Laurell K. Hamilton,caress twilight merry gentry,love
-"Simple Perfection (Perfection, #2)",Abbi Glines,simple perfection perfection,love
-"Breath, Eyes, Memory ",Edwidge Danticat,breath eye memory,surprise
-"Still Life with Crows (Pendergast, #4)","Douglas Preston, Lincoln Child",still life crow pendergast,surprise
-Can't We Talk about Something More Pleasant?,Roz Chast,cant talk something pleasant,surprise
-Britt-Marie var här,"Fredrik Backman, Henning Koch, سمانه پرهیزکاری",brittmarie var hr,surprise
-Gregor and the Marks of Secret,Suzanne Collins,gregor mark secret,surprise
-A Long Walk to Water,Linda Sue Park,long walk water,surprise
-To Your Scattered Bodies Go,Philip José Farmer,scattered body go,surprise
-A Morbid Taste for Bones,Ellis Peters,morbid taste bone,surprise
-The Darkest Evening of the Year,Dean Koontz,dark evening year,surprise
-E.E. Cummings: Complete Poems 1904-1962,E.E. Cummings,ee cummings complete poem,surprise
-Swallows and Amazons,Arthur Ransome,swallow amazon,surprise
-Lilly's Purple Plastic Purse,Kevin Henkes,lillys purple plastic purse,surprise
-Books of Blood: Volumes 1-3,Clive Barker,book blood volume,surprise
-Beyond Belief: My Secret Life Inside Scientology and My Harrowing Escape,"Jenna Miscavige Hill, Lisa Pulitzer",beyond belief secret life inside scientology harrowing escape,surprise
-Preacher: Proud Americans,"Garth Ennis, Steve Dillon, Penn Jillette",preacher proud american,love
-Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life,Shakti Gawain,creative visualization use power imagination create want life,love
-Second Grave on the Left,Darynda Jones,second grave left,surprise
-Le Petit Nicolas,"René Goscinny, Jean-Jacques Sempé",le petit nicolas,surprise
-Just Like Heaven,Julia Quinn,like heaven,love
-Secrets of a Summer Night,Lisa Kleypas,secret summer night,surprise
-"Love Is a Dog from Hell: Poems, 1974-1977",Charles Bukowski,love dog hell poem,love
-A Red Herring Without Mustard,Alan Bradley,red herring without mustard,surprise
-Infinity Welcomes Careful Drivers,Grant Naylor,infinity welcome careful driver,love
-Can Love Happen Twice?,Ravinder Singh,love happen twice,love
-This Boy's Life: A Memoir,Tobias Wolff,boys life memoir,surprise
-Death Comes for the Archbishop,Willa Cather,death come archbishop,surprise
-"Theodore Boone, Kid Lawyer","John Grisham, Richard Thomas",theodore boone kid lawyer,surprise
-The Sacrilege: The Antichrist Takes the Throne,"Tim LaHaye, Jerry B. Jenkins",sacrilege antichrist take throne,surprise
-The Postman Always Rings Twice ,James M. Cain,postman always ring twice,surprise
-La ciudad de las bestias,"Isabel Allende, Margaret Sayers Peden",la ciudad de la bestias,surprise
-The Story of Beautiful Girl,Rachel Simon,story beautiful girl,love
-Last Night in Twisted River,John Irving,last night twisted river,surprise
-Love wins,Rob Bell,love win,love
-A Matter of Honor,Jeffrey Archer,matter honor,love
-American Sphinx: The Character of Thomas Jefferson,Joseph J. Ellis,american sphinx character thomas jefferson,love
-The Rest of Us Just Live Here,Patrick Ness,rest u live,surprise
-The Astronaut Wives Club,Lily Koppel,astronaut wife club,surprise
-The Man Who Was Thursday - A Nightmare,"G.K. Chesterton, Jonathan Lethem",man thursday nightmare,surprise
-The Monster of Florence: A True Story,"Douglas Preston, Mario Spezi",monster florence true story,love
-"Seduced by Moonlighty (Merry Gentry, #3)",Laurell K. Hamilton,seduce moonlighty merry gentry,love
-Shroud for a Nightingale,P.D. James,shroud nightingale,surprise
-Stories of Your Life and Others ,Ted Chiang,story life others,surprise
-Travesuras de la niña mala,Mario Vargas Llosa,travesuras de la nia mala,surprise
-"Loves Music, Loves to Dance",Mary Higgins Clark,love music love dance,love
-It Happened One Autumn,Lisa Kleypas,happen one autumn,surprise
-Y: The Last Man Vol. 7: Paper Dolls,"Brian K. Vaughan, Pia Guerra, Goran Sudžuka, José Marzán Jr.",last man vol paper doll,surprise
-My True Love Gave to Me: Twelve Holiday Stories,"Stephanie Perkins, Holly Black, Ally Carter, Matt de la Pena, Gayle Forman, Jenny Han, David Levithan, Kelly Link, Myra McEntire, Rainbow Rowell, Laini Taylor, Kiersten White",true love give twelve holiday story,love
-"The Walking Dead, Vol. 4: The Heart's Desire","Robert Kirkman, Charlie Adlard, Cliff Rathburn",walk dead vol heart desire,surprise
-The Good House,Ann Leary,good house,love
-Il barone rampante,"Italo Calvino, Archibald Colquhoun",il barone rampante,surprise
-The Darkest Lie (Lords of the Underworld #6),Gena Showalter,dark lie lord underworld,surprise
-Incognito: The Secret Lives of the Brain,David Eagleman,incognito secret life brain,surprise
-"A Stroke of Midnight (Merry Gentry, #4)",Laurell K. Hamilton,stroke midnight merry gentry,love
-There's a Wocket in My Pocket,Dr. Seuss,there wocket pocket,surprise
-Hellboy: The Chained Coffin and Others,Mike Mignola,hellboy chained coffin others,surprise
-Please Ignore Vera Dietz,A.S. King,please ignore vera dietz,surprise
-To Say Nothing of the Dog,Connie Willis,say nothing dog,surprise
-A Song of Ice and Fire Graphic Novels,"Daniel Abraham, George R.R. Martin, Tommy Patterson",song ice fire graphic novel,surprise
-The Land of the Painted Caves,Jean M. Auel,land painted cave,surprise
-Have Space Suit - Will Travel,Robert A. Heinlein,space suit travel,surprise
-"The Social Animal: The Hidden Sources of Love, Character, and Achievement",David  Brooks,social animal hidden source love character achievement,love
-Yertle the Turtle (Classic Seuss),Dr. Seuss,yertle turtle classic seuss,surprise
-The Good Lord Bird,James McBride,good lord bird,love
-One Good Turn,Kate Atkinson,one good turn,love
-"Dark Triumph (His Fair Assassin, #2)",Robin LaFevers,dark triumph fair assassin,love
-Jacob Have I Loved,Katherine Paterson,jacob love,love
-Five Little Pigs,Agatha Christie,five little pig,surprise
-The Far Side Gallery,Gary Larson,far side gallery,surprise
-Rising Tides (Chesapeake Bay Saga #2),Nora Roberts,rise tide chesapeake bay saga,surprise
-Last Exit to Brooklyn,"Hubert Selby Jr., Gilbert Sorrentino",last exit brooklyn,surprise
-"Drums, Girls & Dangerous Pie",Jordan Sonnenblick,drum girls dangerous pie,surprise
-Y: The Last Man Vol. 6: Girl on Girl,"Brian K. Vaughan, Pia Guerra, Goran Sudžuka, José Marzán Jr.",last man vol girl girl,surprise
-Always Looking Up: The Adventures of an Incurable Optimist,Michael J. Fox,always look adventure incurable optimist,love
-"Welcome to the World, Baby Girl!",Fannie Flagg,welcome world baby girl,love
-Den femte kvinnan,"Henning Mankell, Steven T. Murray",den femte kvinnan,surprise
-A River Runs Through It and Other Stories,Norman Maclean,river run story,surprise
-Dream a Little Dream,Susan Elizabeth Phillips,dream little dream,love
-Hunger Makes Me a Modern Girl,Carrie Brownstein,hunger make modern girl,surprise
-Love's Executioner & Other Tales of Psychotherapy,Irvin D. Yalom,love executioner tale psychotherapy,love
-"The Garden of Rama (Rama, #3)","Arthur C. Clarke, Gentry Lee",garden rama rama,surprise
-Batman: The Black Mirror,"Scott Snyder, Jock, Francesco Francavilla, Jared K. Fletcher, Sal Cipriano, David   Baron",batman black mirror,surprise
-If You Take a Mouse to the Movies,"Laura Joffe Numeroff, Felicia Bond",take mouse movie,surprise
-The Selection Stories: The Prince & The Guard,Kiera Cass,selection stories prince guard,surprise
-Night of the Soul Stealer,"Joseph Delaney, Patrick  Arrasmith",night soul stealer,surprise
-Welcome to Dead House,R.L. Stine,welcome dead house,surprise
-Everyone Brave Is Forgiven,Chris Cleave,everyone brave forgive,love
-Safe Harbour,Danielle Steel,safe harbour,love
-The Things We Do for Love,Kristin Hannah,thing love,love
-Inés del alma mía,"Isabel Allende, Margaret Sayers Peden",in del alma,surprise
-While My Pretty One Sleeps,Mary Higgins Clark,pretty one sleep,surprise
-Arsenic and Old Lace,Joseph Kesselring,arsenic old lace,surprise
-The Mill River Recluse,Darcie Chan,mill river recluse,surprise
-Men Explain Things to Me,Rebecca Solnit,men explain thing,surprise
-In the Company of Cheerful Ladies,Alexander McCall Smith,company cheerful lady,love
-黒執事 III [Kuroshitsuji III],Yana Toboso,iii kuroshitsuji iii,surprise
-Tales From a Not-So-Smart Miss Know-it-all,Rachel Renée Russell,tale notsosmart miss knowitall,love
-Natural Born Charmer,Susan Elizabeth Phillips,natural bear charmer,love
-The Sandman: Endless Nights,"Neil Gaiman, Barron Storey, Bill Sienkiewicz, Glenn Fabry, Dave McKean, P. Craig Russell, Milo Manara, Miguelanxo Prado, Frank Quitely, Todd Klein",sandman endless night,surprise
-Food: A Love Story,Jim Gaffigan,food love story,love
-The Jesus I Never Knew,Philip Yancey,jesus never know,surprise
-Princess of the Midnight Ball,Jessica Day George,princess midnight ball,surprise
-"Fables, Volume 3: Storybook Love","Bill Willingham, Mark Buckingham, Steve Leialoha, James Jean",fable volume storybook love,love
-The Five Chinese Brothers,"Claire Huchet Bishop, Kurt Wiese",five chinese brother,surprise
-My Sweet Audrina,V.C. Andrews,sweet audrina,love
-My Best Friend's Girl,Dorothy Koomson,best friend girl,love
-John Keats : The Complete Poems,John Keats,john keats complete poem,surprise
-Almost Heaven,Judith McNaught,almost heaven,love
-"Whitney, My Love",Judith McNaught,whitney love,love
-Flyboys: A True Story of Courage,James D. Bradley,flyboys true story courage,love
-Zomerhuis met zwembad,Herman Koch,zomerhuis meet zwembad,surprise
-True History of the Kelly Gang,Peter Carey,true history kelly gang,love
-One Tiny Lie,K.A. Tucker,one tiny lie,surprise
-Genius: The Life and Science of Richard Feynman,James Gleick,genius life science richard feynman,surprise
-Alex Cross's Trial,"James Patterson, Richard DiLallo",alex cross trial,surprise
-Sway: The Irresistible Pull of Irrational Behavior,"Ori Brafman, Rom Brafman",sway irresistible pull irrational behavior,love
-Waking Up: A Guide to Spirituality Without Religion,Sam Harris,wake guide spirituality without religion,love
-Brokeback Mountain,Annie Proulx,brokeback mountain,surprise
-Nobody's Baby But Mine,Susan Elizabeth Phillips,nobodys baby mine,surprise
-"Vampireville (Vampire Kisses, #3)",Ellen Schreiber,vampireville vampire kiss,love
-The Swans of Fifth Avenue,Melanie Benjamin,swan fifth avenue,surprise
-Size 14 Is Not Fat Either,Meg Cabot,size fat either,surprise
-1Q84 Book 3 [Ichi-kyū-hachi-yon],"Haruki Murakami, 村上 春樹",q book ichikyhachiyon,surprise
-New York to Dallas,"J.D. Robb, Susan Ericksen",new york dallas,surprise
-One Tuesday Morning,Karen Kingsbury,one tuesday morning,surprise
-Interesting Times,"Stephen Briggs, Terry Pratchett",interest time,love
-Why I Am Not a Christian and Other Essays on Religion and Related Subjects,"Bertrand Russell, Paul  Edwards",christian essay religion related subject,love
-Ansichten eines Clowns,"Heinrich Böll, محمد اسماعیل‌زاده",ansichten eines clown,surprise
-The Portable Atheist: Essential Readings for the Non-believer,"Christopher Hitchens, Titus Lucretius Carus, Omar Khayyám, Thomas Hobbes, Baruch Spinoza, David Hume, James Boswell, Percy Bysshe Shelley, George Eliot, Charles Darwin, Leslie Stephen, Anatole France, Mark Twain, Joseph Conrad, Thomas Hardy, Emma Goldman, H.P. Lovecraft, Carl Van Doren, H.L. Mencken, Sigmund Freud, Albert Einstein, George Orwell, John Betjeman, Chapman Cohen, Bertrand Russell, Philip Larkin, Martin Gardner, Carl Sagan, John Updike, John Leslie Mackie, Michael Shermer, A.J. Ayer, Daniel C. Dennett, Charles Templeton, Richard Dawkins, Victor J. Stenger, Elizabeth S.  Anderson, Penn Jillette, Ian McEwan, Steven Weinberg, Salman Rushdie, Ibn Warraq, Sam Harris, A.C. Grayling, Ayaan Hirsi Ali, John Stuart Mill, Karl Marx",portable atheist essential reading nonbeliever,love
-The Magic Strings of Frankie Presto,Mitch Albom,magic string frankie presto,surprise
-First Shift: Legacy,Hugh Howey,first shift legacy,surprise
-Love Medicine,Louise Erdrich,love medicine,love
-Frosty the Snow Man,"Jane Werner Watson, Corinne Malvern",frosty snow man,surprise
-The Bone People,Keri Hulme,bone people,love
-"Heaven, Texas",Susan Elizabeth Phillips,heaven texas,love
-The Looming Tower: Al-Qaeda and the Road to 9/11,Lawrence Wright,loom tower alqaeda road,surprise
-Trinity: A Novel of Ireland,Leon Uris,trinity novel ireland,surprise
-Astérix le Gaulois,"René Goscinny, Albert Uderzo, Anthea Bell, Derek Hockridge",astrix le gaulois,surprise
-The Thousand Orcs (Hunter's Blades #1),R.A. Salvatore,thousand orcs hunter blade,surprise
-You Know You Love Me,Cecily von Ziegesar,know love,love
-For the Love: Fighting for Grace in a World of Impossible Standards,Jen Hatmaker,love fighting grace world impossible standard,love
+Tiny Beautiful Things: Advice on Love and Life from Dear Sugar,Cheryl Strayed,tiny beautiful thing advice love life dear sugar,joy
+The Kind Worth Killing,Peter  Swanson,kind worth kill,love
+You Are Special: A Story for Everyone,Max Lucado,special story everyone,joy
+It's Not About the Bike: My Journey Back to Life,"Lance Armstrong, Sally Jenkins",bike journey back life,joy
+Sweet Tooth,Ian McEwan,sweet tooth,joy
+Flat-Out Love ,Jessica Park,flatout love,joy
+Then Came You,Jennifer Weiner,come,joy
+Hate List,Jennifer Brown,hate list,joy
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Karen Armstrong,history god year quest judaism christianity islam,joy
+Everyday Italian: 125 Simple and Delicious Recipes,Giada De Laurentiis,everyday italian simple delicious recipe,joy
+I Too Had A Love Story,Ravinder Singh,love story,joy
+The Gods Themselves,Isaac Asimov,god,joy
+Lilac Girls,Martha Hall Kelly,lilac girl,joy
+A Constellation of Vital Phenomena,Anthony Marra,constellation vital phenomenon,joy
+The Four Loves,C.S. Lewis,four love,joy
+"The Good, the Bad, and the Undead",Kim Harrison,good bad undead,joy
+"It's OK, I'm Wearing Really Big Knickers! (Confessions of Georgia Nicolson, #2)",Louise Rennison,ok im wear really big knickers confession georgia nicolson,joy
+The First Fifteen Lives of Harry August,Claire North,first fifteen life harry august,joy
+Love Letters to the Dead,Ava Dellaira,love letter dead,joy
+Divine Justice,David Baldacci,divine justice,joy
+A God in Ruins,Kate Atkinson,god ruin,joy
+The Girl Who Chased the Moon,Sarah Addison Allen,girl chase moon,joy
+The Secret Life Of CeeCee Wilkes,Diane Chamberlain,secret life ceecee wilkes,joy
+What We Talk About When We Talk About Love: Stories,Raymond Carver,talk talk love story,joy
+Happy Ever After,Nora Roberts,happy ever,joy
+The School for Good and Evil,Soman Chainani,school good evil,joy
+Mistborn Trilogy Boxed Set,Brandon Sanderson,mistborn trilogy box set,joy
+Special Topics in Calamity Physics,Marisha Pessl,special topic calamity physic,joy
+The Art of Loving,"Erich Fromm, Peter D. Kramer, Rainer Funk",art love,joy
+The Sandman: A Game of You,"Neil Gaiman, Shawn McManus, Colleen Doran, Bryan Talbot, George Pratt, Stan Woch, Dick Giordano, Todd Klein",sandman game,joy
+This Is What Happy Looks Like,Jennifer E. Smith,happy look like,joy
+Hard Luck,Jeff Kinney,hard luck,joy
+Ramona the Brave ,"Beverly Cleary, Alan Tiegreen",ramona brave,joy
+Second Glance,Jodi Picoult,second glance,joy
+Big Stone Gap,Adriana Trigiani,big stone gap,joy
+Peony in Love,Lisa See,peony love,joy
+Girl in Translation,Jean Kwok,girl translation,joy
+The Teachings of Don Juan: A Yaqui Way of Knowledge,Carlos Castaneda,teaching juan yaqui way knowledge,joy
+Love Unrehearsed,Tina Reber,love unrehearsed,joy
+The Sandman: Brief Lives,"Neil Gaiman, Jill Thompson, Vince Locke, Peter Straub",sandman brief life,joy
+We're Going on a Bear Hunt,"Michael Rosen, Helen Oxenbury",go bear hunt,joy
+Tales from a Not-So-Fabulous Life,Rachel Renée Russell,tale notsofabulous life,joy
+The Complete Short Stories of Ernest Hemingway,Ernest Hemingway,complete short story ernest hemingway,joy
+Evening Class,Maeve Binchy,even class,joy
+The Far Pavilions,M.M. Kaye,far pavilion,joy
+"Skinny Bitch: A No-Nonsense, Tough-Love Guide for Savvy Girls Who Want to Stop Eating Crap and Start Looking Fabulous!","Rory Freedman, Kim Barnouin",skinny bitch nononsense toughlove guide savvy girl want stop eat crap start look fabulous,joy
+"The Realms of the Gods (Immortals, #4)",Tamora Pierce,realm god immortal,joy
+One Second After,William R. Forstchen,one second,joy
+"Good Faeries, Bad Faeries","Brian Froud, Terry Windling",good faery bad faery,joy
+Percy Jackson and the Olympians Boxed Set,Rick Riordan,percy jackson olympian box set,joy
+Born Free: A Lioness of Two Worlds,Joy Adamson,bear free lioness two world,joy
+The Painted Girls,Cathy Marie Buchanan,painted girl,joy
+The Shining Girls,Lauren Beukes,shin girl,joy
+An Astronaut’s Guide to Life on Earth,Chris Hadfield,astronauts guide life earth,joy
+"Ink Exchange (Wicked Lovely, #2)",Melissa Marr,ink exchange wicked lovely,love
+Gone for Good,Harlan Coben,go good,joy
+A Game of Thrones - The Graphic Novel Volume 1,"Daniel Abraham, George R.R. Martin, Tommy Patterson",game throne graphic novel volume,joy
+Side Jobs: Stories From The Dresden Files,Jim Butcher,side job story dresden file,joy
+Skulduggery Pleasant,"Derek Landy, Tom Percival",skulduggery pleasant,joy
+Desiring God: Meditations of a Christian Hedonist,John Piper,desire god meditation christian hedonist,joy
+Wives and Daughters,"Elizabeth Gaskell, Pam Morris",wife daughter,joy
+Girl in Hyacinth Blue,Susan Vreeland,girl hyacinth blue,joy
+Girl Online,"Zoe Sugg, Siobhan Curham",girl online,joy
+Knowing God,J.I. Packer,know god,joy
+The Mastery of Love: A Practical Guide to the Art of Relationship (Toltec Wisdom Book),Miguel Ruiz,mastery love practical guide art relationship toltec wisdom book,joy
+Who Do You Love,Jennifer Weiner,love,joy
+Enduring Love,Ian McEwan,endure love,joy
+Washington: A Life,Ron Chernow,washington life,joy
+Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth,T. Harv Eker,secret millionaire mind master inner game wealth,joy
+Fierce Invalids Home From Hot Climates,Tom Robbins,fierce invalid home hot climate,love
+The Lying Game,Sara Shepard,lying game,joy
+When God Was a Rabbit,Sarah Winman,god rabbit,joy
+Love & Misadventure,Lang Leav,love misadventure,joy
+The Complete Stories,Flannery O'Connor,complete story,joy
+"Many Lives, Many Masters",Brian L. Weiss,many life many master,joy
+The Natural Way to Draw,"Kimon Nicolaides, Mamie Harmon",natural way draw,joy
+"The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear","Don    Wood, Audrey Wood",little mouse red ripe strawberry big hungry bear,joy
+Some Girls Bite,Chloe Neill,girl bite,joy
+Lost in a Good Book,Jasper Fforde,lose good book,joy
+"Love Comes Softly (Love Comes Softly, #1)",Janette Oke,love come softly love come softly,joy
+Tender at the Bone: Growing Up at the Table,Ruth Reichl,tender bone grow table,love
+The Tender Bar: A Memoir,J.R. Moehringer,tender bar memoir,love
+"The Ragamuffin Gospel: Good News for the Bedraggled, Beat-Up, and Burnt Out","Brennan Manning, Michael W. Smith, Rich Mullins",ragamuffin gospel good news bedraggled beatup burn,joy
+Princess in Love,Meg Cabot,princess love,joy
+River God,Wilbur Smith,river god,joy
+Oz: The Wonderful Wizard of Oz,"Eric Shanower, Skottie Young, L. Frank Baum",oz wonderful wizard oz,joy
+The Complete Calvin and Hobbes,Bill Watterson,complete calvin hobbes,joy
+Love Walked In,Marisa de los Santos,love walk,joy
+Bone: The Complete Cartoon Epic in One Volume,Jeff Smith,bone complete cartoon epic one volume,joy
+Windmills of the Gods,Sidney Sheldon,windmill god,joy
+Garlic and Sapphires: The Secret Life of a Critic in Disguise,Ruth Reichl,garlic sapphires secret life critic disguise,joy
+Second Chance Summer,Morgan Matson,second chance summer,joy
+A Course in Miracles,Foundation for Inner Peace,course miracle,joy
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Sam Kean,disappearing spoon true tale madness love history world periodic table element,joy
+The Practice of the Presence of God,Brother Lawrence,practice presence god,joy
+Second Son,Lee Child,second son,joy
+The Intelligent Investor,"Benjamin Graham, Jason Zweig, Warren Buffett",intelligent investor,joy
+Harry Potter Page to Screen: The Complete Filmmaking Journey,Bob McCabe,harry potter page screen complete filmmaking journey,joy
+Gods and Generals,Jeff Shaara,god general,joy
+"Panda Bear, Panda Bear, What Do You See?","Bill Martin Jr., Eric Carle",panda bear panda bear see,joy
+Love You More,Lisa Gardner,love,joy
+Silver Girl,Elin Hilderbrand,silver girl,joy
+The Best Christmas Pageant Ever,Barbara Robinson,best christmas pageant ever,joy
+The Good Guy,Dean Koontz,good guy,joy
+The Best of H.P. Lovecraft ,"H.P. Lovecraft, August Derleth, Robert Bloch",best hp lovecraft,joy
+"Conversations with God, An Uncommon Dialogue: Living in the World with Honesty, Courage, and Love, Book 1",Neale Donald Walsch,conversation god uncommon dialogue living world honesty courage love book,joy
+"Hawkeye, Volume 1: My Life as a Weapon","Matt Fraction, David Aja, Javier Pulido, Matt Hollingsworth, Chris Eliopoulos, Alan Davis",hawkeye volume life weapon,joy
+Love That Dog,Sharon Creech,love dog,joy
+The Lion's Game,Nelson DeMille,lion game,joy
+The Sandcastle Girls,Chris Bohjalian,sandcastle girl,joy
+The Viscount Who Loved Me,Julia Quinn,viscount love,joy
+Best Kept Secret,Jeffrey Archer,best kept secret,joy
+When Will There Be Good News?,Kate Atkinson,good news,joy
+Secrets of a Charmed Life,Susan Meissner,secret charmed life,joy
+Experiencing God : Knowing and Doing His Will - Workbook,"Henry T. Blackaby, Claude V. King, Richard Blackaby",experience god knowing workbook,joy
+"Love Is a Mix Tape: Life and Loss, One Song at a Time",Rob Sheffield,love mix tape life loss one song time,joy
+Good Grief,Lolly Winston,good grief,joy
+The Girl In The Ice,Robert Bryndza,girl ice,joy
+The Long Way Home,"Joss Whedon, Georges Jeanty",long way home,joy
+Going Too Far,Jennifer Echols,go far,joy
+Island of the Sequined Love Nun,"Christopher Moore, Oliver Wyman",island sequined love nun,joy
+Time Enough for Love,Robert A. Heinlein,time enough love,joy
+Kushiel's Chosen,Jacqueline Carey,kushiels choose,joy
+The Far Side Gallery 3,Gary Larson,far side gallery,joy
+Love Anthony,Lisa Genova,love anthony,joy
+Complete Me,J. Kenner,complete,joy
+The Geography of Bliss: One Grump's Search for the Happiest Places in the World,Eric    Weiner,geography bliss one grump search happy place world,joy
+A Long Way From Chicago,Richard Peck,long way chicago,joy
+When I'm Gone,"Emily Bleeker, Dan John Miller",im go,love
+Life Expectancy,Dean Koontz,life expectancy,joy
+ Innocent Traitor,Alison Weir,innocent traitor,joy
+The Killing Game,Iris Johansen,killing game,joy
+"Love, Stargirl",Jerry Spinelli,love stargirl,joy
+The Life of Elizabeth I,Alison Weir,life elizabeth,joy
+Earth: A Visitor's Guide to the Human Race ,"Jon Stewart, Rory Albanese, Kevin Bleyer, Rich Bloomquist, Steve Bodow, Tim Carvell, Wyatt Cenac, Hallie Haglund, J.R. Havlan, David Javerbaum, Elliott Kalan, Josh Lieb, Sam Means, Jo Miller, John Oliver, Daniel Radosh, Jason Ross",earth visitor guide human race,joy
+God's Smuggler,"Brother Andrew, Elizabeth Sherrill, John Sherrill",god smuggler,joy
+Seconds: A Graphic Novel,"Bryan Lee O'Malley, Nathan Fairbairn",second graphic novel,joy
+Elizabeth The Queen: The Life Of A Modern Monarch,Sally Bedell Smith,elizabeth queen life modern monarch,joy
+Big Sur,"Jack Kerouac, Aram Saroyan",big sur,joy
+Hour Game,David Baldacci,hour game,joy
+The Cruelest Month,Louise Penny,cruel month,joy
+"As Sure as the Dawn (Mark of the Lion, #3)",Francine Rivers,sure dawn mark lion,joy
+"The Undercover Economist: Exposing Why the Rich Are Rich, the Poor Are Poor--and Why You Can Never Buy a Decent Used Car!",Tim Harford,undercover economist expose rich rich poor poorand never buy decent use car,joy
+Second Chance,Jane Green,second chance,joy
+The Long Tail: Why the Future of Business Is Selling Less of More,Chris Anderson,long tail future business sell less,joy
+Swapping Lives,Jane Green,swap life,joy
+Assholes Finish First,Tucker Max,asshole finish first,joy
+Dear Life,Alice Munro,dear life,joy
+"Farewell, My Lovely",Raymond Chandler,farewell lovely,love
+Neil Patrick Harris: Choose Your Own Autobiography,"Neil Patrick Harris, David Javerbaum, Antony Hare",neil patrick harris choose autobiography,joy
+Fallen in Love,Lauren Kate,fall love,joy
+Nemesis Games,James S.A. Corey,nemesis game,joy
+"A Return to Love: Reflections on the Principles of ""A Course in Miracles""",Marianne Williamson,return love reflection principle course miracle,joy
+Feel The Fear And Do It Anyway: How to Turn Your Fear and Indecision into Confidence and Action,Susan  Jeffers,feel fear anyway turn fear indecision confidence action,joy
+Ask the dust ,"John Fante, Charles Bukowski",ask dust,joy
+The Wedding Girl,Madeleine Wickham,wedding girl,joy
+"From Russia, with Love",Ian Fleming,russia love,joy
+Bear Snores On,"Karma Wilson, Jane Chapman",bear snore,joy
+"Foundation and Chaos (Second Foundation Trilogy, #2)",Greg Bear,foundation chaos second foundation trilogy,joy
+Love Warrior,Glennon Doyle Melton,love warrior,joy
+The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,"Catherynne M. Valente, Ana Juan",girl circumnavigate fairyland ship making,joy
+Operating Instructions: A Journal of My Son's First Year,Anne Lamott,operating instruction journal son first year,joy
+"Still Life with Crows (Pendergast, #4)","Douglas Preston, Lincoln Child",still life crow pendergast,joy
+Why Be Happy When You Could Be Normal?,Jeanette Winterson,happy could normal,joy
+Can't We Talk about Something More Pleasant?,Roz Chast,cant talk something pleasant,joy
+The Long Hard Road Out of Hell,"Marilyn Manson, Neil Strauss",long hard road hell,joy
+The Prodigal God: Christianity Redefined Through the Parable of the Prodigal Sons,Timothy J. Keller,prodigal god christianity redefine parable prodigal son,joy
+Nigella Express: Good Food Fast,Nigella Lawson,nigella express good food fast,joy
+Fish! A Remarkable Way to Boost Morale and Improve Results,"Stephen C. Lundin, Harry Paul, John Christensen, Kenneth H. Blanchard",fish remarkable way boost morale improve result,joy
+Dances with Wolves,Michael Blake,dance wolf,joy
+E.E. Cummings: Complete Poems 1904-1962,E.E. Cummings,ee cummings complete poem,joy
+Where the Mountain Meets the Moon,Grace Lin,mountain meet moon,joy
+Rock Hard,Olivia Cunning,rock hard,joy
+How to Build a Girl,Caitlin Moran,build girl,joy
+Searching for God Knows What,Donald Miller,search god know,joy
+Born in Ice,Nora Roberts,bear ice,joy
+The Silent Girl,Tess Gerritsen,silent girl,joy
+Preacher: Proud Americans,"Garth Ennis, Steve Dillon, Penn Jillette",preacher proud american,joy
+"Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime","John Heilemann, Mark Halperin",game change obama clinton mccain palin race lifetime,joy
+Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life,Shakti Gawain,creative visualization use power imagination create want life,joy
+Metro Girl,Janet Evanovich,metro girl,joy
+Second Grave on the Left,Darynda Jones,second grave left,joy
+The Game,Neil Strauss,game,joy
+The Best Laid Plans,Sidney Sheldon,best laid plan,joy
+White Hot Kiss,Jennifer L. Armentrout,white hot kiss,love
+The Egypt Game,Zilpha Keatley Snyder,egypt game,joy
+"Love Is a Dog from Hell: Poems, 1974-1977",Charles Bukowski,love dog hell poem,joy
+Can Love Happen Twice?,Ravinder Singh,love happen twice,joy
+This Boy's Life: A Memoir,Tobias Wolff,boys life memoir,joy
+ Feeling Good: The New Mood Therapy,David D. Burns,feel good new mood therapy,joy
+Codependent No More: How to Stop Controlling Others and Start Caring for Yourself,Melody Beattie,codependent stop control others start care,love
+Delicious!,Ruth Reichl,delicious,joy
+Love wins,Rob Bell,love win,joy
+The Quiet Game,Greg Iles,quiet game,joy
+Deceptively Delicious: Simple Secrets to Get Your Kids Eating Good Food,Jessica Seinfeld,deceptively delicious simple secret get kid eat good food,joy
+The English Girl,Daniel Silva,english girl,joy
+Chosen Prey,John Sandford,choose prey,joy
+Head Games ,"Joe Hill, Gabriel Rodríguez",head game,joy
+No Second Chance,Harlan Coben,second chance,joy
+The Girl Who Fell From the Sky,Heidi W. Durrow,girl fell sky,joy
+"Loves Music, Loves to Dance",Mary Higgins Clark,love music love dance,joy
+Sweet Dreams,Kristen Ashley,sweet dream,love
+My True Love Gave to Me: Twelve Holiday Stories,"Stephanie Perkins, Holly Black, Ally Carter, Matt de la Pena, Gayle Forman, Jenny Han, David Levithan, Kelly Link, Myra McEntire, Rainbow Rowell, Laini Taylor, Kiersten White",true love give twelve holiday story,joy
+"An Illustrated Life: Drawing Inspiration From The Private Sketchbooks Of Artists, Illustrators And Designers",Danny Gregory,illustrated life draw inspiration private sketchbook artist illustrator designer,joy
+The Creative License: Giving Yourself Permission to Be The Artist You Truly Are,Danny Gregory,creative license give permission artist truly,joy
+Plan B: Further Thoughts on Faith,Anne Lamott,plan b thought faith,joy
+"Bless Me, Ultima",Rudolfo Anaya,bless ultima,love
+The Full Cupboard of Life,Alexander McCall Smith,full cupboard life,joy
+"Finding me : A Decade of Darkness, a Life Reclaimed","Michelle Knight, Michelle Burford",find decade darkness life reclaim,joy
+Born in Shame,Nora Roberts,bear shame,joy
+Girl in a Band,Kim Gordon,girl band,joy
+A Simple Plan,Scott B. Smith,simple plan,joy
+The Long Way Home,Louise Penny,long way home,joy
+"No god but God: The Origins, Evolution, and Future of Islam",Reza Aslan,god god origin evolution future islam,joy
+Where I’m Calling From: The Selected Stories,Raymond Carver,im call select story,joy
+Vanishing Girls,Lauren Oliver,vanish girl,joy
+Percy Jackson's Greek Gods,"Rick Riordan, John Rocco",percy jackson greek god,joy
+"The Social Animal: The Hidden Sources of Love, Character, and Achievement",David  Brooks,social animal hidden source love character achievement,joy
+Small Island,Andrea Levy,small island,joy
+"Second Helpings (Jessica Darling, #2)",Megan McCafferty,second helping jessica darling,joy
+The Happiest Baby on the Block,Harvey Karp,happy baby block,joy
+The Good Lord Bird,James McBride,good lord bird,joy
+One Good Turn,Kate Atkinson,one good turn,joy
+What Got You Here Won't Get You There: How Successful People Become Even More Successful,"Marshall Goldsmith, Mark Reiter",get wont get successful people become even successful,joy
+Jacob Have I Loved,Katherine Paterson,jacob love,joy
+"Sherlock Holmes: The Complete Novels and Stories, Volume I",Arthur Conan Doyle,sherlock holmes complete novel story volume,joy
+Strong Poison,Dorothy L. Sayers,strong poison,joy
+The Far Side Gallery,Gary Larson,far side gallery,joy
+The Blank Slate: The Modern Denial of Human Nature,Steven Pinker,blank slate modern denial human nature,joy
+If You Give a Pig a Party (If You Give...),"Laura Joffe Numeroff, Felicia Bond",give pig party give,joy
+Desire Unchained (Shadow Lover),Larissa Ione,desire unchain shadow lover,joy
+The Girls,Lori Lansens,girl,joy
+Rising Strong,Brené Brown,rise strong,joy
+The Hating Game,Sally   Thorne,hating game,joy
+The Bear and the Dragon,Tom Clancy,bear dragon,joy
+I'm Just Here for the Food: Food + Heat = Cooking,Alton Brown,im food food heat cooking,joy
+Love's Executioner & Other Tales of Psychotherapy,Irvin D. Yalom,love executioner tale psychotherapy,joy
+The Last Seven Months of Anne Frank,Willy Lindwer,last seven month anne frank,joy
+The Yonahlossee Riding Camp for Girls,Anton DiSclafani,yonahlossee rid camp girl,joy
+Dance of the Gods,Nora Roberts,dance god,joy
+Everyone Brave Is Forgiven,Chris Cleave,everyone brave forgive,joy
+The Things We Do for Love,Kristin Hannah,thing love,joy
+Hard Bitten,Chloe Neill,hard bitten,joy
+Barefoot Contessa Family Style: Easy Ideas and Recipes That Make Everyone Feel Like Family,"Ina Garten, Maura McEvoy",barefoot contessa family style easy idea recipe make everyone feel like family,joy
+Long Lost,Harlan Coben,long lose,joy
+The Innocent,Harlan Coben,innocent,joy
+"Dance with a Vampire (Vampire Kisses, #4)",Ellen Schreiber,dance vampire vampire kiss,joy
+The Moral Landscape: How Science Can Determine Human Values,Sam Harris,moral landscape science determine human value,joy
+Che Guevara: A Revolutionary Life,Jon Lee Anderson,che guevara revolutionary life,joy
+"The New Best Recipe: All-New Edition with 1,000 Recipes","Cook's Illustrated Magazine, John Burgoyne, Carl Tremblay",new best recipe allnew edition recipe,joy
+The Proper Care and Feeding of Husbands,Laura C. Schlessinger,proper care feeding husband,love
+Natural Born Charmer,Susan Elizabeth Phillips,natural bear charmer,joy
+Nature Girl,Carl Hiaasen,nature girl,joy
+The Ascent of Money: A Financial History of the World,Niall Ferguson,ascent money financial history world,joy
+Food: A Love Story,Jim Gaffigan,food love story,joy
+The Quillan Games,D.J. MacHale,quillan game,joy
+"The Green Mile, Part 1: The Two Dead Girls",Stephen King,green mile part two dead girl,joy
+Better Than Before: Mastering the Habits of Our Everyday Lives,Gretchen Rubin,good master habit everyday life,joy
+"Fables, Volume 3: Storybook Love","Bill Willingham, Mark Buckingham, Steve Leialoha, James Jean",fable volume storybook love,joy
+Bearing an Hourglass,Piers Anthony,bear hourglass,joy
+My Sweet Audrina,V.C. Andrews,sweet audrina,joy
+John Keats : The Complete Poems,John Keats,john keats complete poem,joy
+"Whitney, My Love",Judith McNaught,whitney love,joy
+Zomerhuis met zwembad,Herman Koch,zomerhuis meet zwembad,joy
+Genius: The Life and Science of Richard Feynman,James Gleick,genius life science richard feynman,joy
+The Pigeon Finds a Hot Dog!,Mo Willems,pigeon find hot dog,love
+The Love Affairs of Nathaniel P. ,Adelle Waldman,love affair nathaniel p,joy
+Dancing in my nuddy-pants!,Louise Rennison,dance nuddypants,joy
+The Longest Day,Cornelius Ryan,long day,joy
+I is for Innocent,Sue Grafton,innocent,joy
+Money,Martin Amis,money,joy
+Charmed Life ,Diana Wynne Jones,charm life,joy
+The Big Four,Agatha Christie,big four,joy
+Love Medicine,Louise Erdrich,love medicine,joy
+The Crippled God,Steven Erikson,cripple god,joy
+I'm OK-You're OK,Thomas A. Harris,im okyoure ok,joy
+Born on a Blue Day: Inside the Extraordinary Mind of an Autistic Savant,Daniel Tammet,bear blue day inside extraordinary mind autistic savant,joy
+Lust for Life: A Novel of Vincent Van Gogh,Irving Stone,lust life novel vincent van gogh,joy
+Private Games ,"James Patterson, Mark T. Sullivan",private game,joy
+The Good Husband of Zebra Drive,Alexander McCall Smith,good husband zebra drive,joy
+The Forbidden Game,L.J. Smith,forbidden game,joy
+You Know You Love Me,Cecily von Ziegesar,know love,joy
+For the Love: Fighting for Grace in a World of Impossible Standards,Jen Hatmaker,love fighting grace world impossible standard,joy
 Sweet Filthy Boy ,Christina Lauren,sweet filthy boy,love
-Loving What Is: Four Questions That Can Change Your Life,"Byron Katie, Stephen Mitchell",love four question change life,love
-The Last Little Blue Envelope,Maureen Johnson,last little blue envelope,surprise
-Unveiled: Tamar (Lineage of Grace #1),Francine Rivers,unveiled tamar lineage grace,love
-"The Darkest Secret (Lords of the Underworld, #7)",Gena Showalter,dark secret lord underworld,surprise
-The Women of Brewster Place,Gloria Naylor,woman brewster place,surprise
-Passion and Purity: Learning to Bring Your Love Life Under Christ's Control,Elisabeth Elliot,passion purity learning bring love life christ control,love
-West Side Story,Irving Shulman,west side story,surprise
-The Drunkard's Walk: How Randomness Rules Our Lives,Leonard Mlodinow,drunkard walk randomness rule life,surprise
-"Merry Christmas, Alex Cross",James Patterson,merry christmas alex cross,love
-"Shakespeare's Landlord (Lily Bard, #1)",Charlaine Harris,shakespeare landlord lily bard,surprise
-"Shrill: Women Are Funny, It's Okay to Be Fat, and Feminists Don't Have to Be Nice",Lindy West,shrill woman funny okay fat feminist dont nice,surprise
+The Rising : Antichrist is Born : Before They Were Left Behind,"Tim LaHaye, Jerry B. Jenkins",rise antichrist bear leave behind,joy
+Loving What Is: Four Questions That Can Change Your Life,"Byron Katie, Stephen Mitchell",love four question change life,joy
+The Complete Poetry & Prose of William Blake,"William Blake, David V. Erdman, Harold Bloom",complete poetry prose william blake,joy
+Passion and Purity: Learning to Bring Your Love Life Under Christ's Control,Elisabeth Elliot,passion purity learning bring love life christ control,joy
+Practice Makes Perfect,Julie James,practice make perfect,joy
+An Innocent Client,Scott Pratt,innocent client,joy
 A Lot Like Love,Julie James,lot like love,love
-"Saga, Volume Six","Brian K. Vaughan, Fiona Staples",saga volume six,surprise
-A Good Yarn,Debbie Macomber,good yarn,love
-Shall We Tell the President?,Jeffrey Archer,shall tell president,surprise
-The Enchantress Returns,"Chris Colfer, Brandon Dorman",enchantress return,surprise
-One Door Away from Heaven,Dean Koontz,one door away heaven,love
-Love in the Afternoon,Lisa Kleypas,love afternoon,love
-The Good Soldier,"Ford Madox Ford, Kenneth Womack, William Baker",good soldier,love
-"Kissing Coffins (Vampire Kisses, #2)",Ellen Schreiber,kiss coffin vampire kiss,love
-Big Bang: The Origin of the Universe,Simon Singh,big bang origin universe,surprise
-Gods in Alabama,Joshilyn Jackson,god alabama,surprise
-Shoe Dog: A Memoir by the Creator of Nike,Phil Knight,shoe dog memoir creator nike,love
-Tom's Midnight Garden,"Philippa Pearce, Susan Einzig",tom midnight garden,surprise
-Pilgrim at Tinker Creek,Annie Dillard,pilgrim tinker creek,surprise
-Preacher: Dixie Fried,"Garth Ennis, Steve Dillon",preacher dixie fry,surprise
-The Heavenly Man: The Remarkable True Story of Chinese Christian Brother Yun,"Paul Hattaway, Brother Yun",heavenly man remarkable true story chinese christian brother yun,love
-Martha Stewart's Cookies,"Martha Stewart, Victor Schrager",martha stewart cooky,surprise
-"Love Bites (Vampire Kisses, #7)",Ellen Schreiber,love bite vampire kiss,love
-Every Soul A Star,Wendy Mass,every soul star,surprise
-Jesus Land : A Memoir,Julia Scheeres,jesus land memoir,surprise
-Heart no Kuni no Alice  ,"QuinRose, Soumei Hoshino",heart kuni alice,surprise
-Winnie the Pooh and Tigger Too,Walt Disney Company,winnie pooh tigger,surprise
-Something Like Fate,Susane Colasanti,something like fate,love
-My Name Is Mary Sutter,Robin Oliveira,name mary sutter,surprise
-"The Omen Machine (Richard and Kahlan, #1)",Terry Goodkind,omen machine richard kahlan,surprise
-"Red Prophet (Tales of Alvin Maker, #2)",Orson Scott Card,red prophet tale alvin maker,surprise
-Don't Look Back,Jennifer L. Armentrout,dont look back,love
-Ultramarathon Man: Confessions of an All-Night Runner,Dean Karnazes,ultramarathon man confession allnight runner,love
-The Silent Blade (Paths of Darkness #1),R.A. Salvatore,silent blade path darkness,surprise
-Round Ireland with a Fridge,Tony Hawks,round ireland fridge,surprise
-The Man from St. Petersburg,Ken Follett,man st petersburg,surprise
-رباعیات [Robāʿiāt-e ʿOmar Khayyām],"Omar Khayyám, محمدعلی فروغی, قاسم غنی",robite omar khayym,surprise
-Fourth Grave Beneath My Feet,Darynda Jones,fourth grave beneath foot,surprise
-The Legend of Huma (Dragonlance: Heroes #1),Richard A. Knaak,legend huma dragonlance hero,love
-Ina May's Guide to Childbirth,Ina May Gaskin,ina may guide childbirth,surprise
-An Occurrence at Owl Creek Bridge,Ambrose Bierce,occurrence owl creek bridge,surprise
-The Sweet Gum Tree,Katherine Allred,sweet gum tree,love
-A Complicated Kindness,Miriam Toews,complicated kindness,love
-"Life is What You Make It: A Story of Love, Hope and How Determination Can Overcome Even Destiny",Preeti Shenoy,life make story love hope determination overcome even destiny,love
-First Among Sequels ,Jasper Fforde,first among sequel,surprise
-Hellboy: Wake the Devil,Mike Mignola,hellboy wake devil,surprise
-Everything that Rises Must Converge,"Flannery O'Connor, Robert Fitzgerald",everything rise must converge,surprise
-A House for Mr. Biswas,V.S. Naipaul,house mr biswas,surprise
-Better Off Friends,Elizabeth Eulberg,good friend,love
-Sacred Contracts: Awakening Your Divine Potential,Caroline Myss,sacred contract awaken divine potential,love
-The Aquitaine Progression,Robert Ludlum,aquitaine progression,love
-Funny in Farsi: A Memoir of Growing Up Iranian in America,Firoozeh Dumas,funny farsi memoir grow iranian america,love
-Lord John and the Brotherhood of the Blade ,Diana Gabaldon,lord john brotherhood blade,surprise
-I'd Know You Anywhere,Laura Lippman,id know anywhere,surprise
-"Superman: Earth One, Volume 1","J. Michael Straczynski, Shane Davis, Sandra Hope, Barbara Ciardo, Rob Leigh",superman earth one volume,surprise
-Foxe's Book of Martyrs,"John Foxe, W. Grinton Berry",fox book martyr,surprise
-"Don't Die, My Love",Lurlene McDaniel,dont die love,love
-The Mystery of the Blue Train,Agatha Christie,mystery blue train,surprise
-The Little Sisters of Eluria,"Stephen King, Michael Whelan",little sister eluria,surprise
-House of Suns,Alastair Reynolds,house sun,surprise
-"Lords of the Bow (Conqueror, #2)",Conn Iggulden,lord bow conqueror,surprise
-Loving Mr. Daniels,Brittainy C. Cherry,love mr daniel,love
-The Lives of Christopher Chant,Diana Wynne Jones,life christopher chant,surprise
-The Good Luck of Right Now,Matthew Quick,good luck right,love
-The Miracle at Speedy Motors ,Alexander McCall Smith,miracle speedy motor,love
-"Clementine (Clementine, #1)","Sara Pennypacker, Marla Frazee",clementine clementine,love
-The Adventures of Augie March,"Saul Bellow, Christopher Hitchens",adventure augie march,surprise
-Forever Peace ,Joe Haldeman,forever peace,love
-Apple Tree Yard,Louise Doughty,apple tree yard,surprise
-Songs of Willow Frost,Jamie Ford,song willow frost,surprise
-Cat Among the Pigeons,Agatha Christie,cat among pigeon,surprise
-The Necklace and Other Short Stories,Guy de Maupassant,necklace short story,surprise
-Captains Courageous,Rudyard Kipling,captain courageous,love
-"Deep Down (Jack Reacher, #16.5)",Lee Child,deep jack reacher,surprise
-"Sweet Surrender (Sweet Series, #1)",Maya Banks,sweet surrender sweet series,love
-Surrender Your Love,J.C. Reed,surrender love,love
-The Wonderful Story Of Henry Sugar And Six More,Roald Dahl,wonderful story henry sugar six,surprise
-Arc de Triomphe,Erich Maria Remarque,arc de triomphe,surprise
-"Far from the Tree: Parents, Children, and the Search for Identity",Andrew Solomon,far tree parent child search identity,surprise
-Midnight Crossroad,Charlaine Harris,midnight crossroad,surprise
-"To Sir Phillip, With Love",Julia Quinn,sir phillip love,love
-"Darkest Powers Trilogy (Darkest Powers, #1-3)",Kelley Armstrong,dark power trilogy dark power,love
-Mufaro's Beautiful Daughters: An African Tale,John Steptoe,mufaros beautiful daughter african tale,love
+Big Red,"Jim Kjelgaard, Carl Pfeuffer",big red,joy
+A Dance With Dragons: Part 2 After The Feast,George R.R. Martin,dance dragon part feast,joy
+A Good Yarn,Debbie Macomber,good yarn,joy
+Love in the Afternoon,Lisa Kleypas,love afternoon,joy
+The Good Soldier,"Ford Madox Ford, Kenneth Womack, William Baker",good soldier,joy
+Big Bang: The Origin of the Universe,Simon Singh,big bang origin universe,joy
+Gods in Alabama,Joshilyn Jackson,god alabama,joy
+"Love Bites (Vampire Kisses, #7)",Ellen Schreiber,love bite vampire kiss,joy
+Girl of Nightmares,Kendare Blake,girl nightmare,joy
+Cemetery Dance,"Douglas Preston, Lincoln Child",cemetery dance,joy
+Barnyard Dance,Sandra Boynton,barnyard dance,joy
+In Real Life,"Cory Doctorow, Jen Wang",real life,joy
+Vinegar Girl,Anne Tyler,vinegar girl,joy
+This Book Is Not Good for You,"Pseudonymous Bosch, Gilbert Ford",book good,joy
+The Sweet Gum Tree,Katherine Allred,sweet gum tree,joy
+Class A (Cherub #2),Robert Muchamore,class cherub,joy
+Mitford Years New Song Unabridged,Jan Karon,mitford year new song unabridged,joy
+Girl at War,Sara Nović,girl war,joy
+The Fourth Bear,Jasper Fforde,fourth bear,joy
+"Life is What You Make It: A Story of Love, Hope and How Determination Can Overcome Even Destiny",Preeti Shenoy,life make story love hope determination overcome even destiny,joy
+Van Gogh: The Life,"Steven Naifeh, Gregory White Smith",van gogh life,joy
+Care of the Soul : A Guide for Cultivating Depth and Sacredness in Everyday Life,Thomas  Moore,care soul guide cultivate depth sacredness everyday life,love
+"The Innocent Mage (Kingmaker, Kingbreaker, #1)",Karen Miller,innocent mage kingmaker kingbreaker,joy
+The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Mark Manson,subtle art give fck counterintuitive approach live good life,joy
+Second Treatise of Government,"John Locke, C.B. Macpherson",second treatise government,joy
+Geisha: A Life,"Mineko Iwasaki, Rande Brown",geisha life,joy
+The Knowledge of the Holy: The Attributes of God: Their Meaning in the Christian Life,A.W. Tozer,knowledge holy attribute god meaning christian life,joy
+Sacred Contracts: Awakening Your Divine Potential,Caroline Myss,sacred contract awaken divine potential,joy
+The Happy Prince and The House of Pomegranates,Oscar Wilde,happy prince house pomegranate,joy
+Ask the Passengers,A.S. King,ask passenger,joy
+Something Wonderful,Judith McNaught,something wonderful,joy
+Believing Christ: The Parable of the Bicycle and Other Good News,Stephen E. Robinson,believe christ parable bicycle good news,joy
+"Soccernomics: Why England Loses, Why Germany and Brazil Win, and Why the U.S., Japan, Australia, Turkey--and Even Iraq--Are Destined to Become the Kings of the World's Most Popular Sport","Simon Kuper, Stefan Szymanski",soccernomics england lose germany brazil win u japan australia turkeyand even iraqare destine become king world popular sport,joy
+"Don't Die, My Love",Lurlene McDaniel,dont die love,joy
+This Is the Story of a Happy Marriage,Ann Patchett,story happy marriage,joy
+The Damnation Game,Clive Barker,damnation game,joy
+How Will You Measure Your Life?,"Clayton M. Christensen, James Allworth, Karen Dillon",measure life,joy
+Lab Girl,Hope Jahren,lab girl,joy
+Loving Mr. Daniels,Brittainy C. Cherry,love mr daniel,joy
+The Lives of Christopher Chant,Diana Wynne Jones,life christopher chant,joy
+The Good Luck of Right Now,Matthew Quick,good luck right,joy
+Talent Is Overrated: What Really Separates World-Class Performers from Everybody Else,Geoff Colvin,talent overrate really separate worldclass performer everybody else,love
+The Complete Phantom of the Opera,"George C. Perry, Clive Barda, Jane Rice, Andrew Lloyd Webber",complete phantom opera,joy
+"The Lost Child of Philomena Lee: A Mother, Her Son And A Fifty Year Search",Martin Sixsmith,lost child philomena lee mother son fifty year search,joy
+"The Google Story: Inside the Hottest Business, Media, and Technology Success of Our Time",David A. Vise,google story inside hot business medium technology success time,love
+Finally,Wendy Mass,finally,joy
+Second Honeymoon,"James Patterson, Howard Roughan",second honeymoon,joy
+The Secret Life of Violet Grant,Beatriz Williams,secret life violet grant,joy
+My Life on the Road,Gloria Steinem,life road,joy
+A Bridge Too Far,Cornelius Ryan,bridge far,joy
+"Sweet Surrender (Sweet Series, #1)",Maya Banks,sweet surrender sweet series,joy
+Surrender Your Love,J.C. Reed,surrender love,joy
+The Wonderful Story Of Henry Sugar And Six More,Roald Dahl,wonderful story henry sugar six,joy
+"Far from the Tree: Parents, Children, and the Search for Identity",Andrew Solomon,far tree parent child search identity,joy
+All But My Life,Gerda Weissmann Klein,life,joy
+"To Sir Phillip, With Love",Julia Quinn,sir phillip love,joy
+Miracle in the Andes: 72 Days on the Mountain and My Long Trek Home,"Nando Parrado, Vince Rause",miracle andes day mountain long trek home,joy
+As Chimney Sweepers Come to Dust ,Alan Bradley,chimney sweeper come dust,joy
+Private Peaceful,Michael Morpurgo,private peaceful,joy
 "God Bless You, Dr. Kevorkian",Kurt Vonnegut Jr.,god bless dr kevorkian,love
-Jeremy Fink and the Meaning of Life,Wendy Mass,jeremy fink meaning life,surprise
-"Transmetropolitan, Vol. 2: Lust for Life","Warren Ellis, Darick Robertson",transmetropolitan vol lust life,surprise
-Secrets of a shoe addict,Beth Harbison,secret shoe addict,surprise
-Prinsessen på ærten,"Janet Stevens, Hans Christian Andersen",prinsessen p rten,surprise
-The Short Stories of F. Scott Fitzgerald,"F. Scott Fitzgerald, Matthew J. Bruccoli",short story f scott fitzgerald,surprise
-The Passion of Artemisia,Susan Vreeland,passion artemisia,love
-東京ミュウミュウ (Tokyo Mew Mew) 1,"Mia Ikumi, Reiko Yoshida",tokyo mew mew,surprise
-Fifth Grave Past the Light,Darynda Jones,fifth grave past light,surprise
-The Spine of the World (Paths of Darkness #2),R.A. Salvatore,spine world path darkness,surprise
-Tyrannosaur Canyon,Douglas Preston,tyrannosaur canyon,surprise
-My Sunshine Away,M.O. Walsh,sunshine away,love
-"Maid for Love (Gansett Island Series, #1)",Marie Force,maid love gansett island series,love
-Odd and the Frost Giants,"Neil Gaiman, Mark Buckingham",odd frost giant,surprise
-The Last Full Measure,Jeff Shaara,last full measure,surprise
-"Among the Brave (Shadow Children, #5)",Margaret Peterson Haddix,among brave shadow child,love
-The Garden of Evening Mists,Tan Twan Eng,garden evening mist,surprise
-Systematic Theology: An Introduction to Biblical Doctrine,Wayne A. Grudem,systematic theology introduction biblical doctrine,love
-"The Dirty Life: On Farming, Food, and Love",Kristin Kimball,dirty life farm food love,love
-"Big Cherry Holler (Big Stone Gap, Book 2)",Adriana Trigiani,big cherry holler big stone gap book,surprise
-The Thing Around Your Neck,Chimamanda Ngozi Adichie,thing around neck,surprise
-Bright Shiny Morning,James Frey,bright shiny morning,love
-Daddy's Little Girl,Mary Higgins Clark,daddys little girl,surprise
-The Library at Mount Char,Scott  Hawkins,library mount char,surprise
+Desires of the Dead,Kimberly Derting,desire dead,joy
+Jeremy Fink and the Meaning of Life,Wendy Mass,jeremy fink meaning life,joy
+Black List,Brad Thor,black list,joy
+"Transmetropolitan, Vol. 2: Lust for Life","Warren Ellis, Darick Robertson",transmetropolitan vol lust life,joy
+The Naked God ,Peter F. Hamilton,naked god,joy
+"Come Back, Amelia Bedelia","Peggy Parish, Wallace Tripp",come back amelia bedelia,joy
+The List,Siobhan Vivian,list,joy
+"The Life and Opinions of Tristram Shandy, Gentleman","Laurence Sterne, Melvyn New",life opinion tristram shandy gentleman,joy
+The Perfect Son,Barbara Claypole White,perfect son,joy
+The Girl Before,J.P. Delaney,girl,joy
+The Better Angels of Our Nature. Why Violence has Declined,Steven Pinker,good angel nature violence decline,joy
+"Maid for Love (Gansett Island Series, #1)",Marie Force,maid love gansett island series,joy
+"Among the Brave (Shadow Children, #5)",Margaret Peterson Haddix,among brave shadow child,joy
+Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991,Michael Azerrad,band could life scene american indie underground,joy
+The Darkness That Comes Before,R. Scott Bakker,darkness come,joy
+"The Dirty Life: On Farming, Food, and Love",Kristin Kimball,dirty life farm food love,joy
+"Lots of Candles, Plenty of Cake",Anna Quindlen,lot candle plenty cake,joy
+The Vor Game,Lois McMaster Bujold,vor game,joy
 The Sweet Potato Queens' Book of Love,Jill Conner Browne,sweet potato queen book love,love
-Lord Edgware Dies,Agatha Christie,lord edgware dy,surprise
-Batman (Volume 2): Hush,"Jeph Loeb, Jim Lee, Scott Williams",batman volume hush,surprise
-Drinking: A Love Story,Caroline Knapp,drink love story,love
-Ethan Frome and Other Short Fiction,"Edith Wharton, Mary Gordon",ethan frome short fiction,surprise
-Adrift: Seventy-Six Days Lost at Sea,Steven Callahan,adrift seventysix day lose sea,surprise
-"Best Friends for Never (The Clique, #2)",Lisi Harrison,best friend never clique,love
-Auschwitz: A New History,Laurence Rees,auschwitz new history,love
-A Pocket Full of Rye,Agatha Christie,pocket full rye,surprise
-of course i love you,"Durjoy Datta, Maanvi Ahuja",course love,love
-Todos os Nomes,"José Saramago, Margaret Jull Costa",todos o nome,surprise
-The Final Solution: A Story of Detection,"Michael Chabon, Jay Ryan",final solution story detection,surprise
-What to Expect the First Year,"Heidi Murkoff, Sharon Mazel, Heidi Murkoff, Arlene Eisenberg, Sandee Hathaway, Mark D. Widome",expect first year,surprise
-The Lions of Little Rock,Kristin Levine,lion little rock,surprise
-Self Matters: Creating Your Life from the Inside Out,Phillip C. McGraw,self matter create life inside,surprise
-Good as Gone,Amy Gentry,good go,love
-Essays in Love,Alain de Botton,essay love,love
-Fourth of July Creek,Smith Henderson,fourth july creek,surprise
-Another Piece of My Heart,Jane Green,another piece heart,surprise
-El general en su laberinto,"Gabriel García Márquez, Edith Grossman",el general en su laberinto,love
-"Lunch in Paris: A Love Story, with Recipes",Elizabeth Bard,lunch paris love story recipe,love
-Love and War ,John Jakes,love war,love
+Divine Misdemeanors ,Laurell K. Hamilton,divine misdemeanor,joy
+All Tomorrow's Parties,William Gibson,tomorrows party,joy
+Drinking: A Love Story,Caroline Knapp,drink love story,joy
+"Best Friends for Never (The Clique, #2)",Lisi Harrison,best friend never clique,joy
+of course i love you,"Durjoy Datta, Maanvi Ahuja",course love,joy
+The List,Steve Martini,list,joy
+The Way of Zen,Alan W. Watts,way zen,joy
+Good as Gone,Amy Gentry,good go,joy
+Essays in Love,Alain de Botton,essay love,joy
+When the Game Was Ours,"Larry Bird, Earvin Johnson, Jackie MacMullan",game,joy
+The Blessing Way,Tony Hillerman,blessing way,joy
+Party Princess,Meg Cabot,party princess,joy
+Big Rock,Lauren Blakely,big rock,joy
+"Lunch in Paris: A Love Story, with Recipes",Elizabeth Bard,lunch paris love story recipe,joy
+Love and War ,John Jakes,love war,joy
 I'm with the Band: Confessions of a Groupie,"Pamela Des Barres, Dave Navarro",im band confession groupie,love
-The Dirty Girls Social Club,"Alisa Valdes, Alisa Valdes-Rodriguez",dirty girl social club,surprise
-黒執事 II [Kuroshitsuji II],"Yana Toboso, Tomo Kimura",ii kuroshitsuji ii,surprise
-Talon of the Silver Hawk,Raymond E. Feist,talon silver hawk,surprise
-The Story of King Arthur,"Thomas Malory, Eugène Vinaver",story king arthur,surprise
-The Love Song of J. Alfred Prufrock and Other Poems,T.S. Eliot,love song j alfred prufrock poem,love
-"What Remains: A Memoir of Fate, Friendship, and Love",Carole Radziwill,remain memoir fate friendship love,love
-The Curious Charms of Arthur Pepper,Phaedra Patrick,curious charm arthur pepper,love
-The Sandman: The Dream Hunters,"Neil Gaiman, Yoshitaka Amano",sandman dream hunter,surprise
-The Stories of John Cheever,John Cheever,story john cheever,surprise
-We Never Asked for Wings,Vanessa Diffenbaugh,never ask wing,surprise
-Vampire Academy: The Graphic Novel,"Richelle Mead, Emma Vieceli, Leigh Dragoon",vampire academy graphic novel,surprise
-A Better World,Marcus Sakey,good world,love
-"A Leaf on the Wind of All Hallows (Outlander, #8.5)",Diana Gabaldon,leaf wind hallows outlander,surprise
-Best Friends with a Self-Confessed Player,Kirsty Moseley,best friend selfconfessed player,love
-Close Range: Wyoming Stories,Annie Proulx,close range wyoming story,surprise
-The Mapping of Love and Death,Jacqueline Winspear,mapping love death,love
-The Five Love Languages of Children,"Gary Chapman, D. Ross Campbell",five love language child,love
-On Becoming a Person:  A Therapist's View of Psychotherapy,"Carl R. Rogers, Peter D. Kramer",become person therapist view psychotherapy,love
-I Heard That Song Before,Mary Higgins Clark,hear song,surprise
-Don't Let Me Go,Catherine Ryan Hyde,dont let go,surprise
-The Paper Girls - Vol 1,"Brian K. Vaughan, Cliff Chiang, Matthew Wilson",paper girl vol,surprise
-... Then He Ate My Boy Entracers,Louise Rennison,eat boy entracers,surprise
-The Inn At Rose Harbor,Debbie Macomber,inn rise harbor,surprise
-The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron,"Bethany McLean, Peter Elkind",smart guy room amazing rise scandalous fall enron,love
-Beneath a Marble Sky,John Shors,beneath marble sky,surprise
-"Fables, Volume 8: Wolves","Bill Willingham, Mark Buckingham, Steve Leialoha, Shawn McManus, Andrew Pepoy",fable volume wolf,surprise
-Light A Penny Candle,Maeve Binchy,light penny candle,surprise
-"Dark Demon (Carpathians, #16)",Christine Feehan,dark demon carpathians,surprise
-Someone To Love,Addison Moore,someone love,love
-"Dicey's Song (Tillerman Family, #2)",Cynthia Voigt,diceys song tillerman family,surprise
-Brave New World Revisited ,Aldous Huxley,brave new world revisit,love
-デスノート #8 (Desu Nōto) Mato (的),"Tsugumi Ohba, Takeshi Obata",desu nto mato,love
-The Complete Poems: Anne Sexton,"Anne Sexton, Maxine Kumin",complete poem anne sexton,surprise
-First Love,"James Patterson, Emily Raymond",first love,love
-The Love Song of Miss Queenie Hennessy,Rachel Joyce,love song miss queenie hennessy,love
-Henderson the Rain King,"Saul Bellow, Luciano Bianciardi",henderson rain king,surprise
-Stay Hungry Stay Foolish,Rashmi Bansal,stay hungry stay foolish,surprise
-French Women Don't Get Fat,Mireille Guiliano,french woman dont get fat,surprise
-"The Uglies Trilogy (Uglies, #1-3)",Scott Westerfeld,ugli trilogy ugli,surprise
-...and that's when it fell off in my hand,Louise Rennison,thats fell hand,love
-The Sacred Romance Drawing Closer To The Heart Of God,"John Eldredge, Brent Curtis",sacred romance draw close heart god,love
-1Q84 Book 2 [Ichi-kyū-hachi-yon],Haruki Murakami,q book ichikyhachiyon,surprise
-Livro do Desassossego,"Fernando Pessoa, Richard Zenith",livro desassossego,surprise
-Malcolm X: A Life of Reinvention,Manning Marable,malcolm x life reinvention,surprise
-Batman: Batman and Son,"Grant Morrison, Andy Kubert, John Van Fleet, Jesse Delperdang",batman batman son,surprise
-A Girl Like You,Gemma Burgess,girl like,surprise
-Dragons of Summer Flame,"Margaret Weis, Tracy Hickman",dragon summer flame,surprise
-Un Lun Dun,China Miéville,un lun dun,surprise
-How to Love,Katie Cotugno,love,love
-"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs","Tyler Hamilton, Daniel Coyle",secret race inside hidden world tour de france dope coverups win cost,love
-"Shadow's Claim (The Dacians, #1)",Kresley Cole,shadow claim dacians,surprise
-That Old Cape Magic,"Richard Russo, Arthur Morey",old cape magic,surprise
-Tales of the South Pacific,James A. Michener,tale south pacific,surprise
-Darth Vader and Son,Jeffrey Brown,darth vader son,surprise
-Den vita lejoninnan,"Henning Mankell, Laurie Thompson",den vita lejoninnan,surprise
-First Among Equals,Jeffrey Archer,first among equal,surprise
-Le Roi Babar,Jean de Brunhoff,le roi babar,surprise
-Život je jinde,"Milan Kundera, Aaron Asher",ivot je jinde,love
-Hotel du Lac,Anita Brookner,hotel du lac,surprise
-The Persian Pickle Club,Sandra Dallas,persian pickle club,surprise
-What I Loved,Siri Hustvedt,love,love
-The Lost Years of Merlin,T.A. Barron,lost year merlin,surprise
-Sieben Jahre in Tibet,Heinrich Harrer,sieben jahre tibet,surprise
-Oogy: The Dog Only a Family Could Love,Larry Levin,oogy dog family could love,love
-Almost French: Love and a New Life in Paris,Sarah Turnbull,almost french love new life paris,love
-Radiant Angel,Nelson DeMille,radiant angel,love
-デスノート #7 (Desu Nōto) Zero (零),"Tsugumi Ohba, Takeshi Obata",desu nto zero,love
-Gonzo: The Life of Hunter S. Thompson,"Jann S. Wenner, Corey Seymour",gonzo life hunter thompson,surprise
-Memórias Póstumas de Brás Cubas,Machado de Assis,memrias pstumas de br cuba,love
-"ttyl (Internet Girls, #1)",Lauren Myracle,ttyl internet girl,surprise
-The Wives of Henry VIII,Antonia Fraser,wife henry viii,surprise
-The Look of Love,Bella Andre,look love,love
-De vita Caesarum ,"Suetonius, Michael Grant, Robert Graves",de vita caesarum,surprise
-I Love You Through And Through,"Bernadette Rossetti-Shustak, Caroline Jayne Church",love,love
-"Locke & Key, Vol. 6: Alpha & Omega","Joe Hill, Gabriel Rodríguez",locke key vol alpha omega,surprise
-Empire of the Sun,J.G. Ballard,empire sun,surprise
-Dark Star Safari ,Paul Theroux,dark star safari,surprise
-"The Rainbow Comes and Goes: A Mother and Son On Life, Love, and Loss","Anderson Cooper, Gloria Vanderbilt",rainbow come go mother son life love loss,love
-One Good Dog,Susan  Wilson,one good dog,love
-Glengarry Glen Ross,David Mamet,glengarry glen ross,surprise
-A Charlie Brown Christmas ,Charles M. Schulz,charlie brown christmas,surprise
-"Random Family: Love, Drugs, Trouble, and Coming of Age in the Bronx",Adrian Nicole LeBlanc,random family love drug trouble come age bronx,love
-The Eye of God: A Sigma Force Novel,James Rollins,eye god sigma force novel,love
-An Artist of the Floating World,Kazuo Ishiguro,artist floating world,surprise
-"River, Cross My Heart",Breena Clarke,river cross heart,surprise
-Free: The Future of a Radical Price,Chris Anderson,free future radical price,love
-Girls in Love,Jacqueline Wilson,girl love,love
-Little Bear's Friend,"Else Holmelund Minarik, Maurice Sendak",little bear friend,love
-Does the Noise in My Head Bother You?,Steven Tyler,noise head bother,surprise
-Dune: The Machine Crusade ,"Brian Herbert, Kevin J. Anderson",dune machine crusade,surprise
-"Ogre, Ogre (Xanth, #5)",Piers Anthony,ogre ogre xanth,surprise
-The City of Falling Angels,John Berendt,city fall angel,surprise
-Hot Water Music,Charles Bukowski,hot water music,surprise
-Histoire de l'oeil,"Georges Bataille, Joachim Neugroschel, Dovid Bergelson",histoire de loeil,surprise
-True Love Story,Willow Aster,true love story,love
-The Invisible Wall: A Love Story That Broke Barriers,Harry Bernstein,invisible wall love story break barrier,love
-Women Who Love Too Much,Robin Norwood,woman love much,love
-Happily Ever After,Kiera Cass,happily ever,surprise
-The Book on the Taboo Against Knowing Who You Are,Alan W. Watts,book taboo know,surprise
-MEG: A Novel of Deep Terror,Steve Alten,meg novel deep terror,surprise
-Something Like Normal,Trish Doller,something like normal,love
-Ice Station Zebra,Alistair MacLean,ice station zebra,surprise
-Pretend You Don't See Her,Mary Higgins Clark,pretend dont see,surprise
-Going Rogue: An American Life,"Sarah Palin, Lynn Vincent, Dewey Whetsell",go rogue american life,surprise
-My Life with the Walter Boys,"Ali Novak, Fallzswimmer",life walter boy,surprise
-Love You to Death: The Unofficial Companion to The Vampire Diaries,Crissy Calhoun,love death unofficial companion vampire diary,love
-Rhett Butler's People,Donald McCaig,rhett butler people,surprise
-The Billionaire Wins the Game,Melody Anne,billionaire win game,love
-Never Love a Highlander,Maya Banks,never love highlander,love
-The Tin Roof Blowdown,James Lee Burke,tin roof blowdown,surprise
-The Folk of Faraway Tree,Enid Blyton,folk faraway tree,surprise
-Sweet Addiction,J.  Daniels,sweet addiction,love
-La casa de Bernarda Alba,"Federico García Lorca, Antonio Sobejano-Moran, Paola Bianco",la casa de bernarda alba,surprise
-How to Fall in Love,Cecelia Ahern,fall love,love
-How to Make Love Like a Porn Star: A Cautionary Tale,"Jenna Jameson, Neil Strauss",make love like porn star cautionary tale,love
-Legion: Skin Deep,"Brandon Sanderson, Jon Foster",legion skin deep,surprise
-The Man Who Walked Between the Towers,Mordicai Gerstein,man walk tower,surprise
-Love Bites,Lynsay Sands,love bite,love
-On Becoming Baby Wise: Giving Your Infant the Gift of Nighttime Sleep,Gary Ezzo,become baby wise give infant gift nighttime sleep,love
-The Honourable Schoolboy,John le Carré,honourable schoolboy,love
-"Fools Rush In (Weddings by Bella, #1)",Janice  Thompson,fool rush wedding bella,surprise
-"Sweet Persuasion (Sweet Series, #2)",Maya Banks,sweet persuasion sweet series,love
-Soon I Will Be Invincible,Austin Grossman,soon invincible,love
-"The Field of Swords (Emperor, #3)",Conn Iggulden,field sword emperor,surprise
-Single White Vampire,Lynsay Sands,single white vampire,surprise
-The Girl in the Steel Corset,Kady Cross,girl steel corset,surprise
-Eat to Live,Joel Fuhrman,eat live,surprise
-When the Emperor Was Divine,Julie Otsuka,emperor divine,surprise
-Five Go to Smuggler's Top,Enid Blyton,five go smuggler top,surprise
-"Rumors of War (Children of the Promise, Vol 1)",Dean Hughes,rumor war child promise vol,surprise
-Příliš hlučná samota,Bohumil Hrabal,pli hlun samota,surprise
-"Ultimate Spider-Man, Volume 1: Power and Responsibility","Brian Michael Bendis, Mark Bagley",ultimate spiderman volume power responsibility,love
-Lorna Doone: A Romance of Exmoor,"R.D. Blackmore, Michelle Allen",lorna doone romance exmoor,love
-"Head Over Heels (Lucky Harbor, #3)",Jill Shalvis,head heel lucky harbor,surprise
-Manga Classics: Les Misérables,"Stacy King, SunNeko Lee, Crystal S. Chan, Victor Hugo",manga classic les misrables,surprise
-Christ the Lord: Out of Egypt,Anne Rice,christ lord egypt,surprise
-"Relentless (The Lost Fleet, #5)",Jack Campbell,relentless lose fleet,surprise
-The Chronicles of Pern: First Fall,Anne McCaffrey,chronicle pern first fall,surprise
-"Look Homeward, Angel",Thomas Wolfe,look homeward angel,surprise
-The Man Who Listens to Horses,"Monty Roberts, Lucy Grealy, Lawrence Scanlan",man listen horse,surprise
-Keep the Aspidistra Flying,George Orwell,keep aspidistra fly,surprise
-Dataclysm: Who We Are (When We Think No One's Looking),Christian Rudder,dataclysm think one look,surprise
-Dune: House Corrino,"Brian Herbert, Kevin J. Anderson",dune house corrino,surprise
-Frida Kahlo 1907-1954: Pain and Passion ,Andrea Kettenmann,frida kahlo pain passion,surprise
-"A War of Gifts (The Ender Quintet, #1.5)",Orson Scott Card,war gift ender quintet,surprise
-Better Than Life,Grant Naylor,good life,love
-Percy Jackson and the Sword of Hades,Rick Riordan,percy jackson sword hades,surprise
-Little House on Rocky Ridge,"Roger Lea MacBride, David Gilleece",little house rocky ridge,surprise
-In a People House,"Dr. Seuss, Theo LeSieg, Roy McKie",people house,love
-How Should We Then Live? The Rise and Decline of Western Thought and Culture,Francis A. Schaeffer,live rise decline western thought culture,surprise
-The Story of Ruby Bridges,"Robert Coles, George Ford",story ruby bridge,surprise
-The Midwife of Hope River ,Patricia Harman,midwife hope river,love
-The summer I turned pretty,Jenny Han,summer turn pretty,surprise
-The Good Father,Diane Chamberlain,good father,love
-The Art of Amy Brown,"Amy Brown, Charles  de Lint",art amy brown,love
-Never Seduce a Scot,Maya Banks,never seduce scot,surprise
-The Wolves of Willoughby Chase ,"Joan Aiken, Pat Marriott",wolf willoughby chase,surprise
-Copper Sun,Sharon M. Draper,copper sun,surprise
-Black Cherry Blues,James Lee Burke,black cherry blue,surprise
-Passion's Reign,Karen Harper,passion reign,love
-Las batallas en el desierto,José Emilio Pacheco,la batallas en el desierto,surprise
-Open Road Summer,Emery Lord,open road summer,surprise
-A Thousand Boy Kisses,Tillie Cole,thousand boy kiss,love
-Shopaholic to the Rescue,Sophie Kinsella,shopaholic rescue,love
-Nothing's Fair in Fifth Grade,Barthe DeClements,nothing fair fifth grade,surprise
-The Bridge Across Forever: A True Love Story,Richard Bach,bridge across forever true love story,love
-Give and Take: A Revolutionary Approach to Success,Adam M. Grant,give take revolutionary approach success,love
-Wool 2: Proper Gauge,Hugh Howey,wool proper gauge,surprise
-Mister B. Gone,Clive Barker,mister b go,surprise
-Darm mit Charme,"Giulia Enders, Jill Enders",darm mit charme,surprise
-Bagombo Snuff Box,Kurt Vonnegut Jr.,bagombo snuff box,surprise
-The Mambo Kings Play Songs of Love,Oscar Hijuelos,mambo king play song love,love
-"Billy Budd, Sailor",Herman Melville,billy budd sailor,surprise
+The Many Lives & Secret Sorrows of Josephine B.,Sandra Gulland,many life secret sorrow josephine b,joy
+The Daughter of Time,Josephine Tey,daughter time,joy
+The Love Song of J. Alfred Prufrock and Other Poems,T.S. Eliot,love song j alfred prufrock poem,joy
+A Girl of the Limberlost,Gene Stratton-Porter,girl limberlost,joy
+The Holiness of God,R.C. Sproul,holiness god,joy
+"What Remains: A Memoir of Fate, Friendship, and Love",Carole Radziwill,remain memoir fate friendship love,joy
+The Way to Cook,Julia Child,way cook,joy
+Second Life,S.J. Watson,second life,joy
+The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results ,"Gary Keller, Jay Papasan",one thing surprisingly simple truth behind extraordinary result,joy
+Flyy Girl,Omar Tyree,flyy girl,joy
+Job: A Comedy of Justice,Robert A. Heinlein,job comedy justice,joy
+We Never Asked for Wings,Vanessa Diffenbaugh,never ask wing,joy
+Dexter Is Delicious,Jeff Lindsay,dexter delicious,joy
+Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,"J.K. Rowling, Joel Holland",good live fringe benefit failure importance imagination,joy
+Only the Innocent,Rachel Abbott,innocent,joy
+A Better World,Marcus Sakey,good world,joy
+"Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America",Thomas L. Friedman,hot flat crowded need green revolutionand renew america,love
+Best Friends with a Self-Confessed Player,Kirsty Moseley,best friend selfconfessed player,joy
+The Mapping of Love and Death,Jacqueline Winspear,mapping love death,joy
+Born to Run,Bruce Springsteen,bear run,joy
+Hallowe'en Party,Agatha Christie,halloween party,joy
+The Five Love Languages of Children,"Gary Chapman, D. Ross Campbell",five love language child,joy
+The Paper Girls - Vol 1,"Brian K. Vaughan, Cliff Chiang, Matthew Wilson",paper girl vol,joy
+"The Belgariad Boxed Set: Pawn of Prophecy, Queen of Sorcery, Magician's Gambit, Castle of Wizardry, & Enchanters' End Game (The Belgariad, #1-5)",David Eddings,belgariad box set pawn prophecy queen sorcery magician gambit castle wizardry enchanter end game belgariad,joy
+Frog And Toad Book Set: Frog And Toad Are Friends; Frog And Toad Together; Days With Frog And Toad; Frog And Toad All Year,Arnold Lobel,frog toad book set frog toad friend frog toad together day frog toad frog toad year,joy
+Lady Almina and the Real Downton Abbey: The Lost Legacy of Highclere Castle,Fiona Carnarvon,lady almina real downton abbey lost legacy highclere castle,joy
+Possessing the Secret of Joy,Alice Walker,possess secret joy,joy
+Way Station,Clifford D. Simak,way station,joy
+Someone To Love,Addison Moore,someone love,joy
+How to Save a Life,Sara Zarr,save life,joy
+Jamie at Home: Cook Your Way to the Good Life,Jamie Oliver,jamie home cook way good life,joy
+The Danish Girl,David Ebershoff,danish girl,joy
+Brave New World Revisited ,Aldous Huxley,brave new world revisit,joy
+How to Be Popular,Meg Cabot,popular,joy
+The Complete Poems: Anne Sexton,"Anne Sexton, Maxine Kumin",complete poem anne sexton,joy
+First Love,"James Patterson, Emily Raymond",first love,joy
+The Love Song of Miss Queenie Hennessy,Rachel Joyce,love song miss queenie hennessy,joy
+"Big Boned (Heather Wells, #3)",Meg Cabot,big bone heather well,joy
+Malcolm X: A Life of Reinvention,Manning Marable,malcolm x life reinvention,joy
+The Complete Guide to Middle-Earth,"Robert Foster, J.R.R. Tolkien",complete guide middleearth,joy
+A Girl Like You,Gemma Burgess,girl like,joy
+The Left Hand of God ,Paul  Hoffman,left hand god,joy
+How to Love,Katie Cotugno,love,joy
+A Dog's Life: Autobiography of a Stray,Ann M. Martin,dogs life autobiography stray,joy
+"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs","Tyler Hamilton, Daniel Coyle",secret race inside hidden world tour de france dope coverups win cost,joy
+Big Nate on a Roll,Lincoln Peirce,big nate roll,joy
+A Long Way Home,Saroo Brierley,long way home,joy
+The Second Assistant: A Tale from the Bottom of the Hollywood Ladder,"Clare Naylor, Mimi Hare",second assistant tale bottom hollywood ladder,joy
+The Life and Adventures of Martin Chuzzlewit,"Charles Dickens, Patricia Ingham, Hablot Knight Browne",life adventure martin chuzzlewit,joy
+Marcelo in the Real World,Francisco X. Stork,marcelo real world,joy
+Enemy of God,Bernard Cornwell,enemy god,joy
+The Gods of Mars,Edgar Rice Burroughs,god mar,joy
+"The Accidental Billionaires: The Founding of Facebook: A Tale of Sex, Money, Genius and Betrayal",Ben Mezrich,accidental billionaires founding facebook tale sex money genius betrayal,joy
+The Missing Piece Meets the Big O,Shel Silverstein,miss piece meet big,joy
+The Relatives Came,"Cynthia Rylant, Stephen Gammell",relative come,joy
+What I Loved,Siri Hustvedt,love,joy
+Mirror Dance,Lois McMaster Bujold,mirror dance,joy
+The Life List,Lori Nelson Spielman,life list,joy
+Oogy: The Dog Only a Family Could Love,Larry Levin,oogy dog family could love,joy
+Almost French: Love and a New Life in Paris,Sarah Turnbull,almost french love new life paris,joy
+Gentle Rogue,Johanna Lindsey,gentle rogue,love
+"Girl, Stolen",April Henry,girl stolen,joy
+The girl who was on fire,"Leah Wilson, Jennifer Lynn Barnes, Mary Borsellino, Sarah Rees Brennan, Terri  Clark, Bree Despain, Adrienne Kress, Sarah Darer Littman, Cara Lockwood, Elizabeth M. Rees, Carrie Ryan, Ned Vizzini, Lili Wilkinson, Blythe Woolston",girl fire,joy
+Gonzo: The Life of Hunter S. Thompson,"Jann S. Wenner, Corey Seymour",gonzo life hunter thompson,joy
+"ttyl (Internet Girls, #1)",Lauren Myracle,ttyl internet girl,joy
+The Look of Love,Bella Andre,look love,joy
+I Love You Through And Through,"Bernadette Rossetti-Shustak, Caroline Jayne Church",love,joy
+Big Fish: A Novel of Mythic Proportions,Daniel Wallace,big fish novel mythic proportion,joy
+Lush Life,Richard Price,lush life,joy
+One Good Dog,Susan  Wilson,one good dog,joy
+The Sound of Gravel,Ruth Wariner,sound gravel,joy
+The Complete Adventures of Peter Rabbit,Beatrix Potter,complete adventure peter rabbit,joy
+Hard Magic,Larry Correia,hard magic,joy
+The Skin I'm In,Sharon G. Flake,skin im,joy
+Before we met,Lucie Whitehouse,meet,joy
+Good Wives,Louisa May Alcott,good wife,joy
+Girls in Love,Jacqueline Wilson,girl love,joy
+The Creative Habit: Learn It and Use It for Life,Twyla Tharp,creative habit learn use life,joy
+Devil's Game,Joanna Wylde,devil game,joy
+Getting Stoned with Savages: A Trip Through the Islands of Fiji and Vanuatu,J. Maarten Troost,get stone savage trip island fiji vanuatu,joy
+Big Trouble,Dave Barry,big trouble,joy
+Because I'm Worth It,Cecily von Ziegesar,im worth,joy
+Life after God,Douglas Coupland,life god,joy
+Hot Water Music,Charles Bukowski,hot water music,love
+True Love Story,Willow Aster,true love story,joy
+The Invisible Wall: A Love Story That Broke Barriers,Harry Bernstein,invisible wall love story break barrier,joy
+An Old-Fashioned Girl,Louisa May Alcott,oldfashioned girl,joy
+The tragedie of King Richard the second,"William Shakespeare, Roma Gill, Robert          Jackson",tragedie king richard second,joy
+Prisoner of my desire ,Johanna Lindsey,prisoner desire,joy
+After I'm Gone,Laura Lippman,im go,love
+Shadows of the Workhouse: The Drama of Life in Postwar London,Jennifer Worth,shadow workhouse drama life postwar london,joy
+The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich,David Bach,automatic millionaire powerful onestep plan live finish rich,joy
+The Sweet Life in Paris: A Recipe for Living in the World's Most Delicious City,David Lebovitz,sweet life paris recipe living world delicious city,love
+Ain't She Sweet?,Susan Elizabeth Phillips,aint sweet,joy
+"Fables, Volume 10: The Good Prince","Bill Willingham, Mark Buckingham, Steve Leialoha, Aaron Alexovich, Andrew Pepoy",fable volume good prince,joy
+Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit,"Walter Benjamin, Michael W. Jennings, Brigid Doherty, Edmund F.N. Jephcott, Rodney Livingstone, Howard Eiland, Thomas Y. Levin",da kunstwerk im zeitalter seiner technischen reproduzierbarkeit,love
+Going Rogue: An American Life,"Sarah Palin, Lynn Vincent, Dewey Whetsell",go rogue american life,joy
+Love You to Death: The Unofficial Companion to The Vampire Diaries,Crissy Calhoun,love death unofficial companion vampire diary,joy
+The Billionaire Wins the Game,Melody Anne,billionaire win game,joy
+Never Love a Highlander,Maya Banks,never love highlander,joy
+Candy Girl,Diablo Cody,candy girl,joy
+Hot Ticket,Olivia Cunning,hot ticket,love
+Sweet Addiction,J.  Daniels,sweet addiction,joy
+The Complete Tales and Poems of Edgar Allan Poe,Edgar Allan Poe,complete tale poem edgar allan poe,joy
+How to Fall in Love,Cecelia Ahern,fall love,joy
+Three Complete Novels: Carrie/Salem's Lot/The Shining,Stephen King,three complete novel carriesalems lotthe shining,joy
+"The Way of Kings, Part 1",Brandon Sanderson,way king part,joy
+How to Make Love Like a Porn Star: A Cautionary Tale,"Jenna Jameson, Neil Strauss",make love like porn star cautionary tale,joy
+The Girl from Krakow,Alex Rosenberg,girl krakow,joy
+For Love of Evil,Piers Anthony,love evil,joy
+"An Acceptable Time (Time Quintet, #5)",Madeleine L'Engle,acceptable time time quintet,joy
+Love Bites,Lynsay Sands,love bite,joy
+Hard Choices,Hillary Rodham Clinton,hard choice,joy
+Roller Girl,Victoria Jamieson,roller girl,joy
+The Best Nest,P.D. Eastman,best nest,joy
+If Life Is a Bowl of Cherries—What Am I Doing in the Pits?,Erma Bombeck,life bowl cherrieswhat pit,joy
+The Forge of God,Greg Bear,forge god,joy
+"Sweet Persuasion (Sweet Series, #2)",Maya Banks,sweet persuasion sweet series,joy
+After Ever Happy,Anna Todd,ever happy,joy
+"Artemis Fowl Boxed Set (Artemis Fowl, #1-5)",Eoin Colfer,artemis fowl box set artemis fowl,joy
+April 1865: The Month That Saved America (P.S.),Jay Winik,april month save america p,joy
+The Girl in the Steel Corset,Kady Cross,girl steel corset,joy
+"Nice Girls Don't Have Fangs (Jane Jameson, #1)",Molly Harper,nice girl dont fang jane jameson,joy
+When the Emperor Was Divine,Julie Otsuka,emperor divine,joy
+The Wicked Girls,Alex Marwood,wicked girl,joy
+Wonderful Tonight: An Autobiography,"Pattie Boyd, Penny Junor",wonderful tonight autobiography,joy
+The Big Nowhere,James Ellroy,big nowhere,joy
+Too Good To Be True,Kristan Higgins,good true,joy
+Tao of Pooh and Te of Piglet Boxed Set,Benjamin Hoff,tao pooh te piglet boxed set,joy
+5 Very Good Reasons to Punch a Dolphin in the Mouth (and Other Useful Guides),Matthew Inman,good reason punch dolphin mouth useful guide,joy
+The Gods of War,Conn Iggulden,god war,joy
+The Last Time We Say Goodbye,Cynthia Hand,last time say goodbye,joy
+The Way the Crow Flies,Ann-Marie MacDonald,way crow fly,joy
+The Second Ship,Richard   Phillips,second ship,joy
+On the Way to Wedding,Julia Quinn,way wedding,joy
+Apathy and Other Small Victories,Paul Neilan,apathy small victory,joy
+Grave Dance,Kalayna Price,grave dance,joy
+The Faithful Spy,Alex Berenson,faithful spy,love
+"Healthy Sleep Habits, Happy Child",Marc Weissbluth,healthy sleep habit happy child,joy
+The Girl in the Red Coat,Kate Hamer,girl red coat,joy
+Hard Limit,Meredith Wild,hard limit,joy
+Hammer of the Gods,Stephen Davis,hammer god,joy
+Better Than Life,Grant Naylor,good life,joy
+The Complete Robot,Isaac Asimov,complete robot,joy
+"The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal","Jim Loehr, Tony Schwartz",power full engagement manage energy time key high performance personal renewal,joy
+"Sweet Tooth, Volume 1: Out of the Deep Woods","Jeff Lemire, José Villarrubia, Carlos M. Mangual",sweet tooth volume deep wood,love
+A Kiss for Little Bear,"Else Holmelund Minarik, Maurice Sendak",kiss little bear,joy
+The Berenstain Bears and Too Much TV,"Stan Berenstain, Jan Berenstain",berenstain bear much tv,joy
+Life Before Legend,Marie Lu,life legend,joy
+The Tiger Who Came to Tea,Judith Kerr,tiger come tea,joy
+"Without You, There Is No Us: My Time with the Sons of North Korea's Elite",Suki Kim,without u time son north korea elite,joy
+Beacon 23: The Complete Novel,Hugh Howey,beacon complete novel,joy
+Then Came You,Lisa Kleypas,come,joy
+The Dancing Wu Li Masters: An Overview of the New Physics,Gary Zukav,dance wu li master overview new physic,joy
+Divine Madness,Robert Muchamore,divine madness,joy
+Innocent,Scott Turow,innocent,joy
+Hard As It Gets,Laura Kaye,hard get,joy
+The Bridge Across Forever: A True Love Story,Richard Bach,bridge across forever true love story,joy
+The Mambo Kings Play Songs of Love,Oscar Hijuelos,mambo king play song love,joy

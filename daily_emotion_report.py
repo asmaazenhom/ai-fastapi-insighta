@@ -79,8 +79,8 @@ mood_map = {
 
 def recommend_content(emotion: str, top_n: int = 5) -> Dict[str, List[Dict]]:
     try:
-        books_df = pd.read_csv("classified_books.csv")
-        articles_df = pd.read_csv("classified_articles.csv")
+        books_df = pd.read_csv("./data/classified_books.csv")
+        articles_df = pd.read_csv("./data/classified_articles.csv")
         target_emotions = mood_map.get(emotion, ['joy'])
         books = books_df[books_df['emotion'].isin(target_emotions)].head(top_n)
         articles = articles_df[articles_df['emotion'].isin(target_emotions)].head(top_n)
@@ -96,16 +96,12 @@ def generate_daily_emotion_report(
     posts: List[str],
     model,
     vectorizer,
-    scaler,
     label_encoder
 ) -> Dict:
     processed_posts = [preprocess_text(p) for p in posts]
     X_tfidf = vectorizer.transform(processed_posts)
-    additional = np.array([extract_additional_features(p) for p in processed_posts])
-    additional_scaled = scaler.transform(additional)
-    X_combined = hstack([X_tfidf, csr_matrix(additional_scaled)])
 
-    predictions = model.predict(X_combined)
+    predictions = model.predict(X_tfidf)
     labels = label_encoder.inverse_transform(predictions)
 
     emotion_counts = dict(Counter(labels))
@@ -150,7 +146,6 @@ def generate_daily_emotion_report(
 # تحميل النموذج والمكونات
 model = joblib.load("./models/random_forest_model.pkl")
 vectorizer = joblib.load("./models/tfidf_vectorizer.pkl")
-scaler = joblib.load("./models/scaler.pkl")
 label_encoder = joblib.load("./models/label_encoder.pkl")
 
 # منشورات اليوم
@@ -166,6 +161,5 @@ generate_daily_emotion_report(
     posts=daily_posts,
     model=model,
     vectorizer=vectorizer,
-    scaler=scaler,
     label_encoder=label_encoder
 )

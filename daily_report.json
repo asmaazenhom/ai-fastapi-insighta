@@ -1,15 +1,19 @@
 {
-    "date": "2025-07-04",
+    "date": "2025-07-05",
     "total_posts": 5,
     "emotion_distribution": {
         "fear": 20.0,
-        "joy": 60.0,
-        "anger": 20.0
+        "anger": 40.0,
+        "joy": 40.0
     },
     "top_negative_posts": [
         {
             "text": "I feel really anxious about school tomorrow.",
             "emotion": "fear"
+        },
+        {
+            "text": "Had fun with my friends today!",
+            "emotion": "anger"
         },
         {
             "text": "Why is everything going wrong in my life?",
@@ -19,55 +23,55 @@
     "recommendations": {
         "books": [
             {
-                "title": "Harry Potter and the Philosopher's Stone",
-                "authors": "J.K. Rowling, Mary GrandPré",
-                "emotion": "joy"
-            },
-            {
-                "title": "The Great Gatsby",
-                "authors": "F. Scott Fitzgerald",
-                "emotion": "joy"
-            },
-            {
-                "title": "Angels & Demons ",
-                "authors": "Dan Brown",
-                "emotion": "joy"
-            },
-            {
-                "title": "Harry Potter and the Order of the Phoenix",
-                "authors": "J.K. Rowling, Mary GrandPré",
+                "title": "The Hunger Games",
+                "authors": "Suzanne Collins",
                 "emotion": "joy"
             },
             {
                 "title": "The Lovely Bones",
                 "authors": "Alice Sebold",
                 "emotion": "love"
+            },
+            {
+                "title": "Gone Girl",
+                "authors": "Gillian Flynn",
+                "emotion": "joy"
+            },
+            {
+                "title": "The Time Traveler's Wife",
+                "authors": "Audrey Niffenegger",
+                "emotion": "joy"
+            },
+            {
+                "title": "A Game of Thrones",
+                "authors": "George R.R. Martin",
+                "emotion": "joy"
             }
         ],
         "articles": [
-            {
-                "title": "Not All Rainbows and Sunshine: The Darker Side of ChatGPT",
-                "url": "https://towardsdatascience.com/not-all-rainbows-and-sunshine-the-darker-side-of-chatgpt-75917472b9c",
-                "emotion": "joy"
-            },
-            {
-                "title": "Python Tuple, The Whole Truth and Only the Truth: Let’s Dig Deep",
-                "url": "https://towardsdatascience.com/python-tuple-the-whole-truth-and-only-truth-lets-dig-deep-24d2bf02971b",
-                "emotion": "joy"
-            },
             {
                 "title": "Don’t Become a Full-Time Content Creator If You Have Low-Risk Tolerance",
                 "url": "https://medium.com/swlh/dont-become-a-full-time-content-creator-if-you-have-low-risk-tolerance-13fa2f77791a",
                 "emotion": "joy"
             },
             {
-                "title": "Why My Side Hustle Stuck After 3 Years and What I Want to Do to Improve It",
-                "url": "https://medium.com/swlh/why-my-side-hustle-stuck-after-3-years-and-what-i-want-to-do-to-improve-it-b87ce72a1e19",
+                "title": "<strong class=\"markup--strong markup--h3-strong\">How My MBA Made Me a Better Fiction Writer</strong>",
+                "url": "https://writingcooperative.com/how-my-mba-made-me-a-better-fiction-writer-d222bc61a5b0",
                 "emotion": "joy"
             },
             {
-                "title": "<strong class=\"markup--strong markup--h3-strong\">How My MBA Made Me a Better Fiction Writer</strong>",
-                "url": "https://writingcooperative.com/how-my-mba-made-me-a-better-fiction-writer-d222bc61a5b0",
+                "title": "How to Start Your Novel with Momentum to Finish It",
+                "url": "https://writingcooperative.com/how-to-start-your-novel-with-momentum-to-finish-it-8d001f4908c5",
+                "emotion": "joy"
+            },
+            {
+                "title": "<strong class=\"markup--strong markup--h3-strong\">Using Propensity-Score Matching to Build Leading Indicators</strong>",
+                "url": "https://towardsdatascience.com/using-propensity-score-matching-to-build-leading-indicators-3e656dccbaf9",
+                "emotion": "joy"
+            },
+            {
+                "title": "Sparkles aren’t good UX✨",
+                "url": "https://uxdesign.cc/sparkles-arent-good-ux-4b8199497c68",
                 "emotion": "joy"
             }
         ]

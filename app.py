@@ -1,7 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
-from collections import Counter
 from fastapi.middleware.cors import CORSMiddleware
 import joblib
 from model_utils import predict
@@ -23,7 +22,6 @@ app.add_middleware(
 # تحميل النموذج والأدوات
 model = joblib.load("./models/random_forest_model.pkl")
 tfidf = joblib.load("./models/tfidf_vectorizer.pkl")
-scaler = joblib.load("./models/scaler.pkl")      # لو مش بتستخدمه خليه scaler = None
 le = joblib.load("./models/label_encoder.pkl")
 
 # ====== Data Models ======
@@ -55,7 +53,6 @@ def daily_report_api(data: DailyPostsInput):
         posts=data.posts,
         model=model,
         vectorizer=tfidf,
-        scaler=scaler,
         label_encoder=le
     )
     return report
